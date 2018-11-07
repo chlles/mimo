@@ -1,6 +1,56 @@
+body {
+  overflow-x: hidden
+}
+
 .container {
   max-width: 960px;
 }
+
+/* Colors */
+
+.textPink{
+  color: #EEA7B8;
+}
+
+.backgroundPink{
+  background-color: #EEA7B8;
+}
+
+.textDarkGrey{
+  color: #454545;
+}
+
+.backgroundDarkGrey{
+  background-color: #454545;
+}
+
+.textGrey{
+  color:#EDEDED;
+}
+
+.backgroundGrey{
+  background-color: #EDEDED;
+}
+
+
+/* ALINGS DE TEXTO */
+
+.text-align-right{
+  text-align: right;
+}
+
+
+.text-align-left{
+  text-align: left;
+}
+
+/* map */
+
+ #map {
+   height: 400px;  /* The height is 400 pixels */
+   width: 100%;  /* The width is the width of the web page */
+ }
+
 
 /*
  * Custom translucent site header
