@@ -130,7 +130,7 @@ li p{
   padding-top: 20px;
   padding-bottom: 2px;
   background-color: transparent;
-  margin: 0px;
+  margin: 0;
   color: #333;
   transition: all 0.3s;
   z-index: 9999;
@@ -448,7 +448,7 @@ i.fab:hover {
  M O B I L E
 
 ***********************************/
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 750px) {
   .bg-header {
     background-image: url("img/cliente.jpg");
   }
@@ -473,12 +473,6 @@ i.fab:hover {
   .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
     color:white;
     font-weight: 600;
-  }
-
-  .navbar-light .navbar-toggler-icon{
-    background-image: url(
-    data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://ww…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E
-    );
   }
 
   .btn-rosa {

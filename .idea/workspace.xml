@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c399060-3979-4126-8f2c-cfc827f8b73c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hamburgers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/product.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +31,8 @@
       <file leaf-file-name="product.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/product.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="520" column="19" selection-start-line="520" selection-start-column="19" selection-end-line="520" selection-end-column="19" />
-              <folding>
-                <element signature="e#7782#7824#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="403">
+              <caret line="450" column="38" selection-start-line="450" selection-start-column="38" selection-end-line="450" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -176,12 +170,12 @@
       <workItem from="1541675625370" duration="17942000" />
       <workItem from="1541789886536" duration="6760000" />
       <workItem from="1542022106826" duration="1373000" />
-      <workItem from="1542115562005" duration="11840000" />
+      <workItem from="1542115562005" duration="12268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48551000" />
+    <option name="totallyTimeSpent" value="48979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="140" width="1616" height="876" extended-state="0" />
@@ -192,8 +186,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32995495" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993573" visible="true" weight="0.11924119" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993573" visible="true" weight="0.14498645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -239,9 +233,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6766">
           <caret line="398" column="21" selection-start-line="398" selection-start-column="21" selection-end-line="398" selection-end-column="21" />
-          <folding>
-            <element signature="e#7782#7824#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -404,11 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/product.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="520" column="19" selection-start-line="520" selection-start-column="19" selection-end-line="520" selection-end-column="19" />
-          <folding>
-            <element signature="e#7782#7824#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="403">
+          <caret line="450" column="38" selection-start-line="450" selection-start-column="38" selection-end-line="450" selection-end-column="38" />
         </state>
       </provider>
     </entry>
