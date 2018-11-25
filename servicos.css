@@ -1,5 +1,5 @@
 .esmal-header{
-    background-image: url("img/servicos/esmalteria/ESMALTERIA_HEADER.jpg");
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/esmalteria/ESMALTERIA_HEADER.jpg');
     background-size: cover;
     height: 400px;
     margin-top: 100px;
@@ -29,6 +29,14 @@
     font-weight: 600;
     font-size: 18px;
     letter-spacing: 1.8px;
+}
+
+.nav-pills a.nav-link {
+    color: #454545!important;
+}
+
+.nav-pills a.nav-link.active {
+    color: white!important;
 }
 
 .btnAgendamento{
