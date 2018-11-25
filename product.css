@@ -7,6 +7,7 @@
 
 html{
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -103,6 +104,28 @@ li p{
  Buttons
 
 ***********************************/
+.content-details a{
+  text-decoration: none;
+}
+
+.btnSeeMore{
+  font-weight: 600;
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  font-size: 14px;
+  letter-spacing: 1.8px;
+  border-radius: 0;
+}
+
+.btnSeeMore a:hover{
+  color:#EEA7B8;
+}
+
+.btnSeeMore:hover {
+  background-color: white;
+  color: #EEA7B8;
+}
 
 .btn-rosa{
   color: white;
@@ -136,6 +159,10 @@ li p{
   z-index: 9999;
 }
 
+a.nav-link{
+  color:white!important;
+  letter-spacing: 1.3px;
+}
 
 /* tags para mudanças ao descer scroll com jquery para mudar cores */
 .navbar.compressed {
@@ -278,6 +305,131 @@ li p{
   top: 0; right: 0; bottom: 0; left: 0;
   background-color: inherit;
   content: ' ';
+}
+
+/*test*/
+
+*, *:before, *:after{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  box-sizing: border-box;
+}
+
+
+.main-title{
+  color: #2d2d2d;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 0.7em 0;
+}
+
+.sessoes.container{
+  height: 300px;
+  padding: 0;
+  float: left;
+  width: 50%;
+}
+@media screen and (max-width: 640px){
+  .sessoes.container{
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 900px){
+  .sessoes.container{
+    width: 33.33333%;
+  }
+}
+
+.sessoes.container .title{
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.sessoes.container {
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+}
+
+.sessoes.container .content-overlay {
+  background: rgba(204, 132, 149, 0.8);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.sessoes.container:hover .content-overlay{
+  opacity: 1;
+}
+
+.content-image{
+  height: 300px;
+  width: auto;
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.sessoes.container:hover .content-details{
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3{
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.content-details p{
+  color: #fff;
+  font-size: 0.8em;
+}
+
+.fadeIn-bottom{
+  top: 80%;
+}
+
+.fadeIn-top{
+  top: 20%;
+}
+
+.fadeIn-left{
+  left: 20%;
+}
+
+.fadeIn-right{
+  left: 80%;
 }
 
 /***********************************
@@ -443,14 +595,27 @@ i.fab:hover {
   color:#a05667;
 }
 
+textarea {
+  resize: none;
+}
+
 /***********************************
 
  M O B I L E
 
 ***********************************/
 @media only screen and (max-width: 750px) {
+  #florzinha{
+    order:20!important;
+  }
+
+  #florzinha img{
+    max-height: 200px!important;
+  }
+
   .bg-header {
-    background-image: url("img/cliente.jpg");
+    background-image: url("img/header_dezembro_mobile.png");
+    background-position: center;
   }
 
   .navbar {
