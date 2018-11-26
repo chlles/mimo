@@ -1,11 +1,32 @@
 .esmal-header{
     background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/esmalteria/ESMALTERIA_HEADER.jpg');
     background-size: cover;
-    height: 400px;
-    margin-top: 100px;
+    height: 500px;
+}
+
+.salao-header{
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/salao/SALAO_HEADER.jpg');
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+}
+
+.corporal-header{
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/corporal/CORPORAL_HEADER.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.facial-header{
+    background-position: center;
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/facial/FACIAL_HEADER.jpg');
+    background-size: cover;
+    height: 500px;
 }
 
 .al1{
+    background-size: cover;
     height: 200px;
     width: 200px;
     background-image: url("img/servicos/esmalteria/banho_gel.jpg");
@@ -55,4 +76,28 @@
 .btnAgendamento:hover {
     background-color: #EEA7B8;
     color: white;
+}
+
+.table thead th {
+    border-bottom:none!important;
+}
+.table td, .table th {
+    border-top:none!important;
+}
+
+.table {
+    width: 60% !important;
+    margin:auto;
+}
+
+/***********************************
+
+ M O B I L E
+
+***********************************/
+@media only screen and (max-width: 750px) {
+    h2 .corporal-header {
+        line-height: 2;
+        margin-top: 200px;
+    }
 }

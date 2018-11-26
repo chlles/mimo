@@ -37,8 +37,6 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>
         </button>
-
-        <!--</button>-->
         <div class="collapse navbar-collapse" id="navbar1">
             <ul class="navbar-nav ml-auto Akrobat">
                 <li class="nav-item active">
@@ -71,9 +69,15 @@
             <img src="img/home_site_flor.png" class="img-fluid" style="max-height:250px;">
         </div>
         <div class="col-md-7 mx-auto my-5 overflow-hidden">
-            <h3 class="display-4 font-weight-normal text-align-right textPink text-uppercase comSerifa"> Etiam augue dui</h3>
-            <p class="lead font-weight-normal text-align-left textDarkGrey Akrobat">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse hendrerit quis nunc sit amet porttitor. Donec cursus erat ut felis bibendum dapibus. Phasellus quis tempus mi. Suspendisse finibus orci ac mi congue sollicitudin. Etiam augue dui, accumsan ut ornare non, tincidunt id augue.</p>
-            <p class="lead font-weight-normal text-align-right textPink text-uppercase comSerifa">Lorem ipsum dolor sit amet</p>
+            <h3 class="display-4 font-weight-normal text-align-right textPink text-uppercase comSerifa" style="font-size: 43px;">
+                ESTÉTICA SEM PADRÃO</h3>
+            <p class="lead font-weight-normal text-align-left textDarkGrey Akrobat">
+                Nós, da equipe da Mimo, gostaríamos de te convidar para conhecer nosso espaço e procedimentos. Somos uma empresa
+                com uma proposta inovadora no mercado, onde o nosso maior objetivo é oferecer serviço e atendimento qualificado
+                com preços baixos. Sabemos que hoje a auto estima está diretamente ligada a nossa saúde mental, e tentamos um oferecer
+                um equilíbrio, respeitando as características individuais de cada um entre, saúde, bem estar e estética.
+            </p>
+            <p class="lead font-weight-normal text-align-right textPink text-uppercase comSerifa">Você merece esse mimo</p>
         </div>
     </div>
 </div>
@@ -90,7 +94,7 @@
         <img class="content-image" src="img/esmalteria.jpg">
         <div class="content-details fadeIn-top">
             <h3>ESMALTERIA</h3>
-            <a class="btn btnSeeMore" href="esmalteria.html">SAIBA MAIS</a>
+            <a class="btn btnSeeMore" href="esmalteria/">SAIBA MAIS</a>
         </div>
     </div>
 </div>
@@ -101,7 +105,7 @@
             <img class="content-image" src="img/corporal.jpg">
             <div class="content-details fadeIn-top">
                 <h3>ESTÉTICA CORPORAL</h3>
-                <a class="btn btnSeeMore" href="esmalteria.html">SAIBA MAIS</a>
+                <a class="btn btnSeeMore" href="esteticacorporal/">SAIBA MAIS</a>
             </div>
     </div>
 </div>
@@ -111,7 +115,7 @@
             <img class="content-image" src="img/salao.jpeg">
             <div class="content-details fadeIn-top">
                 <h3>SALÃO</h3>
-                <a class="btn btnSeeMore" href="esmalteria.html">SAIBA MAIS</a>
+                <a class="btn btnSeeMore" href="salao/">SAIBA MAIS</a>
             </div>
     </div>
 </div>
@@ -121,8 +125,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="img/facial.jpg">
             <div class="content-details fadeIn-top">
-                <h3>ESTETICA FACIAL</h3>
-                <a class="btn btnSeeMore" href="esmalteria.html">SAIBA MAIS</a>
+                <h3>ESTÉTICA FACIAL</h3>
+                <a class="btn btnSeeMore" href="esteticafacial/">SAIBA MAIS</a>
             </div>
     </div>
 </div>
@@ -132,8 +136,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="img/esmalteria.jpg">
             <div class="content-details fadeIn-top">
-                <h3>ESMALTERIA</h3>
-                <a class="btn btnSeeMore" href="esmalteria.html">SAIBA MAIS</a>
+                <h3>CÍLIOS E DESIGN</h3>
+                <a class="btn btnSeeMore" href="cilios/">SAIBA MAIS</a>
             </div>
     </div>
 </div>
@@ -142,8 +146,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="img/esmalteria.jpg">
             <div class="content-details fadeIn-top">
-                <h3>ESMALTERIA</h3>
-                <a class="btn btnSeeMore" href="esmalteria.html">SAIBA MAIS</a>
+                <h3>MICROPIGMENTAÇÃO </h3>
+                <a class="btn btnSeeMore" href="micropigmentacao/">SAIBA MAIS</a>
             </div>
     </div>
 </div>
@@ -382,50 +386,7 @@
 <script src="node_modules/popper.js/dist/popper.min.js"></script>
 <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="form/main.js"></script>
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $(window).on('scroll', function() {
-            if ($(window).scrollTop() >= 20) {
-                $('.navbar').addClass('compressed');
-                $('.navbar-nav').addClass('changecolormenu');
-                $('.navbar-brand').addClass('changecolorlogo');
-
-            } else {
-                $('.navbar').removeClass('compressed');
-                $('.navbar-nav').removeClass('changecolormenu');
-                $('.navbar-brand').removeClass('changecolorlogo');
-            }
-        });
-    });
-</script>
-
-<script>
-    // Swipe functions for Bootstrap Carousel
-
-    !function(t){t.fn.bcSwipe=function(e){var n={threshold:50};return e&&t.extend(n,e),this.each(function(){function e(t){1==t.touches.length&&(u=t.touches[0].pageX,c=!0,this.addEventListener("touchmove",o,!1))}function o(e){if(c){var o=e.touches[0].pageX,i=u-o;Math.abs(i)>=n.threshold&&(h(),t(this).carousel(i>0?"next":"prev"))}}function h(){this.removeEventListener("touchmove",o),u=null,c=!1}var u,c=!1;"ontouchstart"in document.documentElement&&this.addEventListener("touchstart",e,!1)}),this}}(jQuery);
-
-    $('.carousel').bcSwipe({ threshold: 50 });
-</script>
-
-<script>
-    $('.navbar-collapse a').click(function (e) {
-        $('.navbar-collapse').collapse('toggle');
-    });
-</script>
-
-<script type="text/javascript">
-    $( document ).ready(function() {
-        var isMobile = window.matchMedia("only screen and (max-width: 760px)");
-
-        if (isMobile.matches) {
-            $('.navbar').addClass('navbar-dark');
-
-        } else {
-            $('.navbar').removeClass('navbar-dark');
-        }
-    });
-</script>
+<script src="main.js"></script>
 
 </body>
 </html>

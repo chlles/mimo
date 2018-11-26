@@ -376,8 +376,8 @@ a.nav-link{
 }
 
 .content-image{
-  height: 300px;
-  width: auto;
+  height: auto;
+  width: 100%;
 }
 
 .content-details {
