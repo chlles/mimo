@@ -188,6 +188,7 @@ a.nav-link{
   background-size: cover;
   background-repeat: no-repeat;
   height:700px;
+  background-position: center;
 }
 
 .logonav{
@@ -678,5 +679,14 @@ textarea {
 
   ul.navbar-nav.ml-auto{
     margin: 25px 0;
+  }
+}
+
+@media only screen and (min-width: 750px) {
+  #florzinha img {
+    max-height: 250px;
+    bottom: 0;
+    left: 5px;
+    position: absolute;
   }
 }

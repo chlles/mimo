@@ -1,3 +1,9 @@
+/***********************************
+
+ H E A D E R S
+
+***********************************/
+
 .esmal-header{
     background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/esmalteria/ESMALTERIA_HEADER.jpg');
     background-size: cover;
@@ -18,6 +24,13 @@
     height: 500px;
 }
 
+.cilios-header{
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/cilios/header_categoria_ciliosedesign.png');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
 .facial-header{
     background-position: center;
     background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/facial/FACIAL_HEADER.jpg');
@@ -25,13 +38,17 @@
     height: 500px;
 }
 
-.al1{
+.faqheader{
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5));
     background-size: cover;
-    height: 200px;
-    width: 200px;
-    background-image: url("img/servicos/esmalteria/banho_gel.jpg");
-    background-position: center;
+    height: 300px;
 }
+
+/***********************************
+
+ N A V   P I L L S
+
+***********************************/
 
 .navCategorias a:hover{
     color:white;
@@ -60,6 +77,12 @@
     color: white!important;
 }
 
+/***********************************
+
+ B U T T O N S
+
+***********************************/
+
 .btnAgendamento{
     background-color: transparent;
     color: #EEA7B8;
@@ -78,6 +101,12 @@
     color: white;
 }
 
+/***********************************
+
+ T A B L E
+
+***********************************/
+
 .table thead th {
     border-bottom:none!important;
 }
@@ -86,8 +115,323 @@
 }
 
 .table {
-    width: 60% !important;
     margin:auto;
+}
+
+#tabelasalao1 td{
+    text-align: right!important;
+    padding-right:8px!important;
+}
+
+#tabelasalao2 td{
+    padding-right:8px!important;
+}
+
+.alignbutCenter{
+    margin: auto;
+    display: flex;
+    width: 30%;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.tabcorporal {
+    width:70%!important;
+}
+
+.tabcorporal td{
+    text-align: right;
+}
+
+#tabesmal td{
+    text-align: right;
+}
+
+/***********************************
+
+ TODAS AS IMAGENS
+
+***********************************/
+
+.al1{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/banho_gel.jpg");
+    background-position: center;
+}
+
+/******* C Í L I O S *******/
+.imgmeumimo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/cilios/meumimo.jpg");
+}
+
+.imgmimo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/cilios/mimo.jpg");
+    background-position: center;
+}
+
+.imgsupermimo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/cilios/supermimo.jpg");
+    background-position: center;
+}
+
+/******* P E E L I N G *******/
+.imgpdiamante{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/DIAMANTE.png");
+    background-position: center;
+}
+
+.imgpcristal{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/peeling-de-cristaL.jpg");
+    background-position: center;
+}
+
+.imgpquimico{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/QUIMICO.jpg");
+    background-position: center;
+}
+
+.imgmicroagulhamento{
+    background-size: cover;
+    height: 264px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-items: center;
+    background-image: url(img/servicos/facial/microagulhamento.jpg);
+    background-position: center;
+}
+
+/******* L I M P E Z A *******/
+
+.imglmimo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/LIMPEZAMIMO.jpg");
+    background-position: center;
+}
+
+.imglled{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/LIMPEZALED.jpg");
+    background-position: center;
+}
+
+.imglmimovip{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/MIMOVIP.jpg");
+    background-position: center;
+}
+
+.imglmimodiamante{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/MIMODIAMANTE.jpg");
+    background-position: center;
+}
+
+/******* B A N H O   D E    G E L *******/
+
+.imgbgel{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/banho_gel.jpg");
+    background-position: center;
+}
+
+.imgbfibra{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/banho_fibra_de_vidro.jpg");
+    background-position: center;
+}
+
+.imgbporcelana{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/banho_porcelana.jpg");
+    background-position: center;
+}
+
+.imgbagri{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/banho_agrigel.png");
+    background-position: center;
+}
+
+/******* A L O N G A M E N T O *******/
+
+.imgagrimolde{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/ACRIGELCOMMOLDE.png");
+    background-position: center;
+}
+
+.imgagriprot{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/ACRIGELCOMPROTESE.jpg");
+    background-position: center;
+}
+
+.imgafibra{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/FIBRADEVIDRO.jpg");
+    background-position: center;
+}
+
+.imgagelmolde{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/GELCOMMOLDE.jpg");
+    background-position: center;
+}
+
+.imgagelprot{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/GELCOMPROTESE.jpg");
+    background-position: center;
+}
+
+.imgaporcelana{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/esmalteria/PORCELANA.jpg");
+    background-position: center;
+}
+
+/******* M A S S A G E M *******/
+
+.imgmdrenamod{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/drenamodeladora.jpg");
+    background-position: center;
+}
+
+.imgmdrenodetox{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/drenodetoxpower.jpg");
+    background-position: center;
+}
+
+.imgmlinfatica{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/linfatica.jpg");
+    background-position: center;
+}
+
+
+.imgmimodetox{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/mimodetox.jpg");
+    background-position: center;
+}
+
+
+.imgmrelaxante{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/relaxante.png");
+    background-position: center;
+}
+
+.imgmodeladora{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/modeladora.png");
+    background-position: center;
+}
+
+/******* A P A R E L H O S *******/
+
+.imgcorrenterussa{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/Corrente-Russa.jpg");
+    background-position: center;
+}
+
+
+.imgcriofreq{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/criofrequencia.jpg");
+    background-position: center;
+}
+
+.imgendermo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/endermoterapia.jpg");
+    background-position: center;
+}
+
+.imgpump{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/pump.png");
+    background-position: center;
+}
+
+.imgradiofreq{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/radiofrequencia.jpg");
+    background-position: center;
 }
 
 /***********************************
@@ -99,5 +443,8 @@
     h2 .corporal-header {
         line-height: 2;
         margin-top: 200px;
+    }
+    #tabcorporal {
+        width:100%!important;
     }
 }
