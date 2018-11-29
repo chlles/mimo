@@ -434,6 +434,21 @@
     background-position: center;
 }
 
+/******* M I C R O *******/
+
+.microlips{
+    background: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url("img/servicos/micro/lips.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.microsobrancelha{
+    background: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url("img/servicos/micro/Microblading.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
 /***********************************
 
  M O B I L E

@@ -1,18 +1,22 @@
     // Navbar color change
+    function navbar(){
+        if ($(window).scrollTop() >= 20) {
+            $('.navbar').addClass('compressed');
+            $('.navbar-nav').addClass('changecolormenu');
+            $('.navbar-brand').addClass('changecolorlogo');
+
+        } else {
+            $('.navbar').removeClass('compressed');
+            $('.navbar-nav').removeClass('changecolormenu');
+            $('.navbar-brand').removeClass('changecolorlogo');
+        }
+    }
 
     $(document).ready(function() {
         $(window).on('scroll', function() {
-            if ($(window).scrollTop() >= 20) {
-                $('.navbar').addClass('compressed');
-                $('.navbar-nav').addClass('changecolormenu');
-                $('.navbar-brand').addClass('changecolorlogo');
-
-            } else {
-                $('.navbar').removeClass('compressed');
-                $('.navbar-nav').removeClass('changecolormenu');
-                $('.navbar-brand').removeClass('changecolorlogo');
-            }
+            navbar();
         });
+        navbar();
     });
 
 
@@ -33,10 +37,29 @@
     $( document ).ready(function() {
         var isMobile = window.matchMedia("only screen and (max-width: 760px)");
 
+
         if (isMobile.matches) {
+            $('#navbar1').addClass('collapse');
+            $('#navbar1').addClass('navbar-collapse');
             $('.navbar').addClass('navbar-dark');
 
         } else {
+            $('#navbar1').removeClass('collapse');
+            $('#navbar1').removeClass('navbar-collapse');
             $('.navbar').removeClass('navbar-dark');
         }
+
+
+        $('#navbar1 a').on('click', function (e) {
+            e.preventDefault();
+                var target = $(this).attr('href');
+                var position = $(target).position();
+
+            if (isMobile.matches) {
+                $('#navbar1').removeClass('show');
+            }
+            $(window).scrollTop(position.top - 100);
+        })
     });
+
+
