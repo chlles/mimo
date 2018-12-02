@@ -58,7 +58,7 @@
 </nav>
 
 <!-- Banner -->
-<div class="position-relative overflow-hidden corporal-header text-center text-white">
+<div class="position-relative overflow-hidden micro-header text-center text-white">
     <h2 style="line-height: 9; font-size: 45px;"> MICROPIGMENTAÇÃO </h2>
 </div>
 
@@ -94,9 +94,37 @@
                             → Em casos de tratamento de câncer e alopecia, é necessário autorização médica;<br/>
                             → Caso tenha micropigmentação antiga, antes de agendar, envie uma foto bem iluminada para nossa equipe avaliar no whatsapp;
                         </b></p>
-                        <!--<div class="nav-item mt-3">-->
-                            <!--<a class="btn btnAgendamento alignbutCenter" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item mt-3">
+                            <a class="btn btnAgendamento"  data-toggle="modal" data-target="#exampleModalCenterImpedimento">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Em casos de tratamento de câncer e alopecia, é necessário autorização médica; <br/>
+                                            Caso tenha micropigmentação antiga, antes de agendar, envie uma foto bem iluminada para nossa equipe avaliar no whatsapp;
+                                        </p>
+                                    </div>
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">ENTENDI E QUERO AGENDAR</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -130,9 +158,36 @@
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             Valor: R$ 700,00 em até 4x, com retoque incluso (se necessário).
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item mt-3">
+                            <a class="btn btnAgendamento"  data-toggle="modal" data-target="#exampleModalCenterImpedimento2">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Em casos de preenchimento labial, agendar após 15 dias do procedimento.
+                                        </p>
+                                    </div>
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">ENTENDI E QUERO AGENDAR</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip2" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

@@ -19,6 +19,10 @@ body {
   max-width: 960px;
 }
 
+a {
+  text-decoration: none!important;
+}
+
 @font-face {
   font-family: 'Akrobat Regular';
   font-style: normal;
@@ -99,6 +103,41 @@ li p{
   font-weight: normal;
 }
 
+
+/***********************************
+
+ N A V   P I L L S
+
+***********************************/
+
+.navCategorias a:hover{
+  color:white;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  border-radius: 20px;
+  padding: 5px 15px;
+  color: white;
+  background-color: #EEA7B8;
+}
+
+.nav-pills .nav-link{
+  color:#454545;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1.8px;
+}
+
+.nav-pills a.nav-link {
+  color: #454545!important;
+}
+
+.nav-pills a.nav-link.active {
+  color: white!important;
+}
+
+
 /***********************************
 
  Buttons
@@ -162,6 +201,18 @@ li p{
 a.nav-link{
   color:white!important;
   letter-spacing: 1.3px;
+}
+
+.modal-open{
+  padding-right: 0!important;
+}
+
+.modal-backdrop {
+  z-index: 100000 !important;
+}
+
+.modal {
+  z-index: 100001 !important;
 }
 
 /* tags para mudanças ao descer scroll com jquery para mudar cores */
@@ -378,7 +429,7 @@ a.nav-link{
 
 .content-image{
   height: auto;
-  width: 100%;
+  max-width: 100%;
 }
 
 .content-details {
@@ -598,6 +649,10 @@ i.fab:hover {
 
 textarea {
   resize: none;
+}
+.img-cat{
+  height: 100px;
+  border-radius: 90px;
 }
 
 

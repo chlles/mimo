@@ -61,5 +61,3 @@
             $(window).scrollTop(position.top - 100);
         })
     });
-
-

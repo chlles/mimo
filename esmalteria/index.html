@@ -49,13 +49,28 @@
                 <li class="nav-item ml-md-2">
                     <a class="nav-link" href="../index.html#contact">CONTATO</a>
                 </li>
+                <li class="nav-item ml-md-2">
+                    <a class="nav-link" href="../faq">FAQ</a>
+                </li>
                 <li class="nav-item ml-md-3">
-                    <a class="btn btn-rosa" href="#" style="letter-spacing: 1.3px;">AGENDAR</a>
+                    <a class="btn btn-rosa" data-toggle="modal" data-target="#exampleModalCenterNav" style="letter-spacing: 1.3px; color:white;">AGENDAR</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenterNav" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <iframe id="agendaWidgetSalaoVipNav" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/categories"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <!-- Banner -->
 <div class="position-relative overflow-hidden esmal-header text-center text-white">
@@ -97,9 +112,9 @@
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgagelprot" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgagelprot" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">GEL COM PROTESE (TIP)</h3>
                         <p style="letter-spacing: 0.8px">
                             <b>GEL COM PRÓTESE (TIP)</b> é um alongamento simples. É um pouco menos resistente quanto os outros procedimentos. Ele é uma prótese que é colada do meio da unha, e após lixar, e cortamos de acordo com o tamanho e formato desejado. Em seguida passamos o gel por cima da prótese, que é lixada para obter um nivelamento.
@@ -108,16 +123,44 @@
                             O primeiro alongamento tem custo de R$ 165<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimentoGel">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimentoGel" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Em caso de incidência de fungos, só é possível realizar o procedimento após a cura total.<br/>
+                                            Se você tem o hábito de roer unhas, antes de agendar, envie uma foto para nossa equipe avaliar por whatsapp;
+                                        </p>
+                                    </div>
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterGel">ENTENDI E QUERO AGENDAR</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenterGel" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgagelmolde" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgagelmolde" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">GEL COM MOLDE (100%)</h3>
                         <p style="letter-spacing: 0.8px">
                             <b>GEL COM MOLDE (100%)</b> é um alongamento feito através de um molde colocado no entorno do dedo da cliente e são feitas aplicações de gel para dar o formato e tamanho desejado. Como acabamento, é retirado o molde e o produto é lixado até obter um nivelamento natural.
@@ -126,16 +169,16 @@
                             O primeiro alongamento tem custo de R$ 185 <br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimentoGel">AGENDAR</a>
+                        </div>
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgaporcelana" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgaporcelana" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">PORCELANA</h3>
                         <p style="letter-spacing: 0.8px">
                             Esta técnica é indicada para unhas bastante roídas e também oleosas, pois tem uma excelente fixação. O pó de acrílico é misturado com o monomer, formando assim o componente que dá o alongamento. O procedimento pode ser feito tanto com prótese quanto com molde, e é uma das técnicas mais resistentes.
@@ -146,16 +189,46 @@
                             Manutenção em até 03 semanas (21 dias): R$ 120
 
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Gestantes não podem realizar o procedimento!<br/>
+                                            Em caso de incidência de fungos, só é possível realizar o procedimento após a cura total.<br/>
+                                            Se você tem o hábito de roer unhas, antes de agendar, envie uma foto para nossa equipe avaliar por whatsapp;
+                                        </p>
+                                    </div>
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter5">ENTENDI E QUERO AGENDAR</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenter5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip5" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgafibra" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgafibra" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">FIBRA DE VIDRO</h3>
                         <p style="letter-spacing: 0.8px">
                             São fios da fibra de vidro colocados sobre a unha, moldados de acordo com o formato natural da unha. É feita uma aplicação de gel em cima da fibra e para finalização, o excesso é retirado através de lixamento para deixar de forma nivelada.
@@ -165,16 +238,45 @@
                             Manutenção em até 03 semanas (21 dias): R$ 110
 
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento2 ">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Em caso de incidência de fungos, só é possível realizar o procedimento após a cura total.<br/>
+                                            Se você tem o hábito de roer unhas, antes de agendar, envie uma foto para nossa equipe avaliar por whatsapp;
+                                        </p>
+                                    </div>
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter6">ENTENDI E QUERO AGENDAR</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenter6" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip6" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                <div class="col-md-4 imgagriprot" style="float:left;">
+                <div class="col-md-4 col-xs-12 imgagriprot" style="float:left;">
                 </div>
-                <div class="col-md-8" style="margin-left: 240px;">
+                <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                     <h3 class="textPink font-weight-bold">AGRIGEL COM PRÓTESE (TIP)</h3>
                     <p style="letter-spacing: 0.8px">
                         É o mesmo procedimento do Gel com prótese (TIP), porém é acrescentado Pó de Fibra de Vidro, fazendo com que fique mais resistente.                    </p>
@@ -183,16 +285,16 @@
                         Manutenção em até 03 semanas (21 dias): R$ 100
 
                     </p>
-                    <!--<div class="nav-item">-->
-                        <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                    <!--</div>-->
+                    <div class="nav-item">
+                        <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">AGENDAR</a>
+                    </div>
                 </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgagrimolde" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgagrimolde" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">AGRIGEL COM MOLDE (100%)</h3>
                         <p style="letter-spacing: 0.8px">
                             É o mesmo procedimento citado acima, porém é acrescentado Pó de Fibra de Vidro, fazendo com que o alongamento fique um pouco mais resiste.
@@ -202,9 +304,9 @@
                             Manutenção em até 03 semanas (21 dias): R$ 100
 
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">AGENDAR</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -223,25 +325,53 @@
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgbgel" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgbgel" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">BANHO DE GEL</h3>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 130.<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100.<br/>
                             *Não parcelamos valores.*
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Em caso de incidência de fungos, só é possível realizar o procedimento após a cura total.<br/>
+                                            Se você tem o hábito de roer unhas, antes de agendar, envie uma foto para nossa equipe avaliar por whatsapp;
+                                        </p>
+                                    </div>
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter7">ENTENDI E QUERO AGENDAR</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenter7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip2" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgbagri" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgbagri" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">BANHO DE ACRIGEL</h3>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 135.<br/>
@@ -249,16 +379,16 @@
                             *Não parcelamos valores.*
 
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
+                        </div>
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgbfibra" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgbfibra" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">BANHO DE FIBRA DE VIDRO</h3>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 140.<br/>
@@ -266,25 +396,25 @@
                             *Não parcelamos valores.*
 
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
+                        </div>
                     </div>
                 </div>
                 <br/>
                 <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 imgbporcelana" style="float:left;">
+                    <div class="col-md-4 col-xs-12 imgbporcelana" style="float:left;">
                     </div>
-                    <div class="col-md-8" style="margin-left: 240px;">
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">BANHO DE PORCELANA</h3>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 150.<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 120.<br/>
                             *Não parcelamos valores.*
                         </p>
-                        <!--<div class="nav-item">-->
-                            <!--<a class="btn btnAgendamento" href="#">AGENDAR</a>-->
-                        <!--</div>-->
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -409,6 +539,20 @@
         <!--<div class="nav-item mt-5">-->
             <!--<a class="btn btnAgendamento alignbutCenter" href="#">AGENDAR</a>-->
         <!--</div>-->
+        <div class="nav-item mt-5">
+            <a class="btn btnAgendamento alignbutCenter" data-toggle="modal" data-target="#exampleModalCenter3">AGENDAR</a>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModalCenter3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <iframe id="agendaWidgetSalaoVip3" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/4/services"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 
@@ -419,7 +563,6 @@
         </div>
     </div>
 </footer>
-
 
 <!-- Bootstrap core JavaScript
 ================================================== -->

@@ -3,6 +3,11 @@
  H E A D E R S
 
 ***********************************/
+.micro-header{
+    background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/micro/header.jpeg');
+    background-size: cover;
+    height: 500px;
+}
 
 .esmal-header{
     background-image: linear-gradient(to bottom right, rgba(238, 167, 184, .5), rgba(238, 167, 184, .5)), url('img/servicos/esmalteria/ESMALTERIA_HEADER.jpg');
@@ -46,54 +51,21 @@
 
 /***********************************
 
- N A V   P I L L S
-
-***********************************/
-
-.navCategorias a:hover{
-    color:white;
-}
-
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
-    border-radius: 20px;
-    padding: 5px 15px;
-    color: white;
-    background-color: #EEA7B8;
-}
-
-.nav-pills .nav-link{
-    color:#454545;
-    text-transform: uppercase;
-    font-weight: 600;
-    font-size: 18px;
-    letter-spacing: 1.8px;
-}
-
-.nav-pills a.nav-link {
-    color: #454545!important;
-}
-
-.nav-pills a.nav-link.active {
-    color: white!important;
-}
-
-/***********************************
-
  B U T T O N S
 
 ***********************************/
 
 .btnAgendamento{
     background-color: transparent;
-    color: #EEA7B8;
+    color: #EEA7B8!important;
     border: 1px solid #EEA7B8;
     font-size: 18px;
     letter-spacing: 1.8px;
     border-radius: 0;
 }
 
-.btnAgendamento a:hover{
-    color:white;
+.btnAgendamento:hover{
+    color:white!important;
 }
 
 .btnAgendamento:hover {
@@ -152,7 +124,6 @@
  TODAS AS IMAGENS
 
 ***********************************/
-
 .al1{
     background-size: cover;
     height: 200px;
@@ -449,15 +420,83 @@
     background-position: center;
     height: 600px;
 }
+
+
 /***********************************
 
  M O B I L E
 
 ***********************************/
 @media only screen and (max-width: 750px) {
+    .al1 ,
+    .imgmeumimo ,
+    .imgmimo ,
+    .imgsupermimo ,
+    .imgpdiamante ,
+    .imgpcristal ,
+    .imgpquimico ,
+    .imgmicroagulhamento ,
+    .imglmimo ,
+    .imglled ,
+    .imglmimovip ,
+    .imglmimodiamante ,
+    .imgbgel ,
+    .imgbfibra ,
+    .imgbporcelana ,
+    .imgbagri ,
+    .imgagrimolde ,
+    .imgagriprot ,
+    .imgafibra ,
+    .imgagelmolde ,
+    .imgagelprot ,
+    .imgaporcelana ,
+    .imgmdrenamod ,
+    .imgmdrenodetox ,
+    .imgmlinfatica ,
+    .imgmimodetox ,
+    .imgmrelaxante ,
+    .imgmodeladora ,
+    .imgcorrenterussa ,
+    .imgcriofreq ,
+    .imgendermo ,
+    .imgpump ,
+    .imgradiofreq ,
+    .microlips ,
+    .microsobrancelha {
+        width: 100%;
+        float: none !important;
+    }
+
+    .micro-header ,
+    .esmal-header ,
+    .salao-header ,
+    .corporal-header ,
+    .cilios-header ,
+    .facial-header {
+        height:300px!important
+    }
+
+    .micro-header h2,
+    .esmal-header h2,
+    .salao-header h2,
+    .corporal-header h2,
+    .cilios-header h2,
+    .facial-header h2{
+        margin-top: 190px!important;
+        line-height: inherit!important;
+        font-size: 26px!important;
+    }
+
+    .col-md-8 , .col-xs-12{
+        margin-left: auto!important;
+        margin-top:20px;
+    }
     h2 .corporal-header {
         line-height: 2;
         margin-top: 200px;
+    }
+    .alignbutCenter {
+        width:100%;
     }
     #tabcorporal {
         width:100%!important;
