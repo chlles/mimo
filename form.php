@@ -5,15 +5,14 @@
  * Date: 02/12/2018
  * Time: 16:36
  */
-
+require 'vendor/autoload.php';
 
 // Dados obtidos pelo formulário
-$nomeremetente     = $_POST['name'];
 $nomeremetente = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
-$emailremetente    = trim($_POST['email']);
+$emailremetente = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
 $emaildestinatario = 'chllesfernandes@gmail.com'; //e-mail deve estar em seu servidor web
-$assunto          = $_POST['subject'];
-$mensagem          = $_POST['message'];
+$assunto = filter_input(INPUT_POST, 'subject', FILTER_SANITIZE_STRING);
+$mensagem = filter_input(INPUT_POST, 'message', FILTER_SANITIZE_STRING);
 
 
 /* Montando a mensagem a ser enviada no corpo do e-mail. */
@@ -25,13 +24,17 @@ $mensagemHTML = '<strong>Formulário de Contato</strong>
 <hr>';
 
 
-// O remetente deve ser um e-mail do seu domínio conforme determina a RFC 822.
-// O return-path deve ser ser o mesmo e-mail do remetente.
-$headers = "MIME-Version: 1.1\r\n";
-$headers .= "Content-type: text/html; charset=utf-8\r\n";
-$headers .= "From: $emailremetente\r\n"; // remetente
-$headers .= "Return-Path: $emaildestinatario \r\n"; // return-path
-$envio = mail($emaildestinatario, $assunto, $mensagemHTML, $headers);
-
- if($envio)
-     echo "<script> alert('Mensagem enviada!'); </script>"; // Página que será redirecionada
+$email = new \SendGrid\Mail\Mail();
+$email->setFrom($emaildestinatario, "Mimo Estética");
+$email->setSubject("Sending with SendGrid is Fun");
+$email->addTo($emailremetente, $nomeremetente);
+$email->addContent(
+    "text/html", $mensagemHTML
+);
+$sendgrid = new \SendGrid(getenv('SENDGRID_API_KEY'));
+try {
+    $response = $sendgrid->send($email);
+    echo "<script> alert('Mensagem enviada com sucesso.') </script>";
+} catch (Exception $e) {
+    echo "<script> alert('Sua mensagem não pode ser enviada.') </script>";
+}
