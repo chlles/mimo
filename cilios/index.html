@@ -49,13 +49,33 @@
                 <li class="nav-item ml-md-2">
                     <a class="nav-link" href="../index.html#contact">CONTATO</a>
                 </li>
+                <li class="nav-item ml-md-2">
+                    <a class="nav-link" href="../faq/">FAQ</a>
+                </li>
                 <li class="nav-item ml-md-3">
-                    <a class="btn btn-rosa" href="#" style="letter-spacing: 1.3px;">AGENDAR</a>
+                    <a class="btn btn-rosa" data-toggle="modal" data-target="#exampleModalCenterNav" style="letter-spacing: 1.3px; color:white;">AGENDAR</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenterNav" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe id="agendaWidgetSalaoNav" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <!-- Banner -->
 <div class="position-relative overflow-hidden cilios-header text-center text-white">
@@ -105,6 +125,9 @@
                             <div class="modal-dialog modal-dialog-centered" role="document">
                                 <div class="modal-content">
                                     <div class="modal-body">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
                                         <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
                                         <p class="textDarkGrey text-center">
                                             <b>O procedimento não é indicado para:</b><br/>
@@ -114,7 +137,8 @@
                                             O adesivo usado para colagem das extensões de poliéster é composto por: cianocrilato, formaldeído, hidroquinonea, carbono e poly isocyante.
                                         </p>
                                     </div>
-                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">ENTENDI E QUERO AGENDAR</a>
+                                    <button data-dismiss="modal">
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
                                 </div>
                             </div>
                         </div>
@@ -123,8 +147,13 @@
                         <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered" role="document">
                                 <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
                                     <div class="modal-body">
-                                        <iframe id="agendaWidgetSalaoVip" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica&template=1&portal=1#/app/salon/35176/category/9/services"></iframe>
+                                        <iframe id="agendaWidgetSalaoVip5" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -217,9 +246,26 @@
                         </tr>
                         </tbody>
                     </table>
-                    <!--<div class="nav-item">-->
-                        <!--<a class="btn btnAgendamento alignbutCenter" href="#">AGENDAR</a>-->
-                    <!--</div>-->
+                    <div class="nav-item">
+                        <a class="btn btnAgendamento alignbutCenter" data-toggle="modal" data-target="#exampleModalCenter2">AGENDAR</a>
+                    </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <iframe id="agendaWidgetSalaoVip" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

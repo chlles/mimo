@@ -9,6 +9,7 @@
 
 // Dados obtidos pelo formulário
 $nomeremetente     = $_POST['name'];
+$nomeremetente = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
 $emailremetente    = trim($_POST['email']);
 $emaildestinatario = 'chllesfernandes@gmail.com'; //e-mail deve estar em seu servidor web
 $assunto          = $_POST['subject'];
@@ -33,4 +34,4 @@ $headers .= "Return-Path: $emaildestinatario \r\n"; // return-path
 $envio = mail($emaildestinatario, $assunto, $mensagemHTML, $headers);
 
  if($envio)
-     echo "<script>location.href=iindex.phpscript>"; // Página que será redirecionada
+     echo "<script> alert('Mensagem enviada!'); </script>"; // Página que será redirecionada

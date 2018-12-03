@@ -1,4 +1,5 @@
-    // Navbar color change
+'use strict';
+// Navbar color change
     function navbar(){
         if ($(window).scrollTop() >= 20) {
             $('.navbar').addClass('compressed');
@@ -39,25 +40,50 @@
 
 
         if (isMobile.matches) {
-            $('#navbar1').addClass('collapse');
-            $('#navbar1').addClass('navbar-collapse');
+            $('#navbar2').addClass('collapse');
+            $('#navbar2').addClass('navbar-collapse');
             $('.navbar').addClass('navbar-dark');
 
         } else {
-            $('#navbar1').removeClass('collapse');
-            $('#navbar1').removeClass('navbar-collapse');
+            $('#navbar2').removeClass('collapse');
+            $('#navbar2').removeClass('navbar-collapse');
             $('.navbar').removeClass('navbar-dark');
         }
 
-
-        $('#navbar1 a').on('click', function (e) {
-            e.preventDefault();
-                var target = $(this).attr('href');
-                var position = $(target).position();
+        function scrollTo(target){
+            var position = $(target).position();
 
             if (isMobile.matches) {
-                $('#navbar1').removeClass('show');
+                $('#navbar2').removeClass('show');
             }
             $(window).scrollTop(position.top - 100);
-        })
+        }
+
+        $('a.scroll').on('click', function (e) {
+            e.preventDefault();
+            var target = $(this).attr('href');
+            scrollTo(target);
+        });
+
+        if (window.location.hash) {
+            var scrollToTop = function () {
+                $(window).scrollTop(0);
+            };
+            $(window).one('scroll', scrollToTop);
+
+            window.onload = function() {
+                scrollTo(window.location.hash);
+            };
+        }
+    });
+
+
+    //Fechar modais de impedimento
+
+    $("#exampleModalCenterImpedimentoGel>.btnAgendamento").on("click", function(e) {
+
+        if (e.target !== this)
+            return;
+
+        $("#exampleModalCenterImpedimentoGel").removeClass('show');
     });
