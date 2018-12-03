@@ -2,3 +2,5 @@ node_modules
 .idea
 
 imgsendgrid.env
+
+vendor
