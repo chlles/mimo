@@ -1,0 +1,112 @@
+[Wed Dec 05 00:55:46 2018] [error] [client 199.58.86.209] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Wed Dec 05 01:53:07 2018] [error] [client 208.110.93.52] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Wed Dec 05 09:22:31 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 09:22:31 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 09:23:22 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:23:22 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 09:24:50 2018] [error] [client 104.132.119.93] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:24:51 2018] [error] [client 104.132.119.93] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 09:47:03 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:04 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:04 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 09:47:04 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 09:47:05 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 09:47:15 2018] [error] [client 66.102.8.199] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:16 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:23 2018] [error] [client 66.102.8.199] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:24 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 09:47:24 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 09:47:29 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:29 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 09:47:37 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 09:47:42 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 12:03:21 2018] [error] [client 177.45.215.140] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 12:03:22 2018] [error] [client 177.45.215.140] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 12:17:50 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 12:17:50 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 12:26:27 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 12:26:27 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 12:28:06 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Wed Dec 05 12:28:06 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 13:35:48 2018] [error] [client 99.237.131.119] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 13:35:49 2018] [error] [client 99.237.131.119] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 13:42:56 2018] [error] [client 186.197.52.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 13:42:57 2018] [error] [client 186.197.52.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 13:44:06 2018] [error] [client 186.197.52.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 13:45:11 2018] [error] [client 186.197.52.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 13:45:11 2018] [error] [client 186.197.52.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticafacial/
+[Wed Dec 05 13:46:28 2018] [error] [client 186.197.52.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 14:12:32 2018] [error] [client 66.249.66.85] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Wed Dec 05 14:54:05 2018] [error] [client 177.64.26.128] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 15:24:44 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:24:45 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 15:24:51 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:24:51 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:24:51 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:27:36 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:27:36 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 15:27:36 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 15:27:38 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:27:38 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 15:27:38 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 15:27:50 2018] [error] [client 189.90.15.34] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:27:50 2018] [error] [client 189.90.15.34] PHP Warning:  require_once(__DIR__/composer/autoload_real.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:27:50 2018] [error] [client 189.90.15.34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/composer/autoload_real.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:28:03 2018] [error] [client 189.90.15.34] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:28:03 2018] [error] [client 189.90.15.34] PHP Warning:  require_once(__DIR__/composer/autoload_real.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:28:03 2018] [error] [client 189.90.15.34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/composer/autoload_real.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:28:53 2018] [error] [client 189.90.15.34] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5
+[Wed Dec 05 15:28:53 2018] [error] [client 189.90.15.34] PHP Warning:  require_once(__DIR__/composer/autoload_real.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5
+[Wed Dec 05 15:28:53 2018] [error] [client 189.90.15.34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/composer/autoload_real.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5
+[Wed Dec 05 15:29:02 2018] [error] [client 189.90.15.34] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:29:02 2018] [error] [client 189.90.15.34] PHP Warning:  require_once(__DIR__/composer/autoload_real.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:29:02 2018] [error] [client 189.90.15.34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/composer/autoload_real.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:30:11 2018] [error] [client 189.90.15.34] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:30:11 2018] [error] [client 189.90.15.34] PHP Warning:  require_once(__DIR__/composer/autoload_real.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 15:30:11 2018] [error] [client 189.90.15.34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/composer/autoload_real.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/vendor/autoload.php on line 5, referer: http://esteticamimo.com.br/
+[Wed Dec 05 16:11:38 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 16:11:39 2018] [error] [client 104.132.119.74] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 16:51:19 2018] [error] [client 187.119.239.91] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 16:51:21 2018] [error] [client 187.119.229.189] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 17:24:04 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:24:04 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 17:24:04 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 17:24:09 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:24:09 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:25:01 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27
+[Wed Dec 05 17:25:01 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27
+[Wed Dec 05 17:36:06 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:36:07 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 17:36:07 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 17:36:15 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:36:15 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:36:38 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:36:38 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Wed Dec 05 17:36:38 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Wed Dec 05 17:36:44 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:36:44 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:40:08 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:40:08 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:50:49 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:49 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:52 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:52 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:52 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:52 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:52 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:50:52 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 38
+[Wed Dec 05 17:52:16 2018] [error] [client 66.249.85.47] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 17:53:42 2018] [error] [client 66.249.85.47] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 17:54:25 2018] [error] [client 66.249.66.84] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:57:06 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 39
+[Wed Dec 05 17:57:06 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 39
+[Wed Dec 05 17:57:14 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 39, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:57:14 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 39, referer: http://esteticamimo.com.br/
+[Wed Dec 05 17:58:12 2018] [error] [client 189.40.90.218] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Wed Dec 05 17:58:44 2018] [error] [client 189.40.90.218] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/micropigmentacao/
+[Wed Dec 05 18:05:21 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 44, referer: http://esteticamimo.com.br/
+[Wed Dec 05 18:05:21 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 44, referer: http://esteticamimo.com.br/
+[Wed Dec 05 18:13:42 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 32, referer: http://esteticamimo.com.br/
+[Wed Dec 05 18:13:42 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 32, referer: http://esteticamimo.com.br/
+[Wed Dec 05 18:13:54 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 32, referer: http://esteticamimo.com.br/
+[Wed Dec 05 18:13:54 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 32, referer: http://esteticamimo.com.br/

@@ -1,0 +1,472 @@
+[Tue Dec 04 11:41:07 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:41:07 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:41:08 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:41:08 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:49:54 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:49:55 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:50:17 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:50:19 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:51:28 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:51:30 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:51:31 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:51:31 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:51:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:51:32 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:51:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/Akrobat-Regular.woff, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/product.css, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/main.js, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:18 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:18 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:18 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:18 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:29 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:32 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/img, referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:52:33 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:55:17 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:55:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:55:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:55:17 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/form, referer: http://esteticamimo.tempsite.ws/
+[Tue Dec 04 11:55:21 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:55:21 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 11:56:28 2018] [error] [client 177.139.195.86] Directory index forbidden by Options directive: /home/storage/7/f9/f9/esteticamimo/public_html/
+[Tue Dec 04 11:56:28 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:58:28 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:58:28 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:58:35 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:58:36 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 11:58:36 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 11:58:43 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:58:43 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 11:58:43 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 11:58:55 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 11:58:56 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 11:58:56 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:10:25 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:10:27 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:10:27 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:10:51 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:10:51 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:10:51 2018] [error] [client 177.139.195.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/node_modules, referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:13:30 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:14:24 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:14:24 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:14:56 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:14:57 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:16:30 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:16:30 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:16:30 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:16:52 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:16:52 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:16:52 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:16:55 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticafacial/
+[Tue Dec 04 12:16:56 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticafacial/
+[Tue Dec 04 12:17:02 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:17:02 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:17:02 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:17:56 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticafacial/
+[Tue Dec 04 12:19:30 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/cilios/
+[Tue Dec 04 12:19:31 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/cilios/
+[Tue Dec 04 12:21:16 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:21:29 2018] [error] [client 66.249.85.49] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/
+[Tue Dec 04 12:21:35 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:21:45 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:22:03 2018] [error] [client 66.249.85.51] mod_mime_magic: invalid type 0 in mconvert()., referer: http://www.esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:25:39 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:27:50 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:27:54 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:30:01 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:30:02 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:34:09 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:34:09 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:34:09 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:35:31 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:35:32 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:35:32 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:36:15 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:36:16 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:36:28 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:36:28 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:36:28 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:37:27 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:37:27 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:37:27 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:38:52 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:38:52 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:38:55 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:38:56 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:38:56 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:38:59 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 12:38:59 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:39:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:39:20 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:39:20 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:40:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Tue Dec 04 12:40:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:40:50 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Tue Dec 04 12:40:50 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:41:02 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:41:03 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:41:03 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:41:12 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Tue Dec 04 12:41:13 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:41:14 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:41:14 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:41:15 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:41:17 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Tue Dec 04 12:41:18 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:41:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:41:20 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:41:20 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:43:48 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:43:49 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:43:49 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:43:59 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:43:59 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:44:18 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:44:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:44:54 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:44:55 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:44:57 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/index.html
+[Tue Dec 04 12:44:57 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:44:57 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:45:00 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:45:00 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:45:05 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:45:05 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:47:40 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:47:41 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:49:06 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:49:07 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:50:51 2018] [error] [client 66.102.8.193] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/googlefa1db7fb6f2f982e.html
+[Tue Dec 04 12:50:51 2018] [error] [client 66.102.8.196] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/googlebea21527191afb84.html
+[Tue Dec 04 12:51:58 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:51:58 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:54:12 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 12:54:22 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:54:22 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:54:22 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:54:33 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:54:33 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 12:54:41 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:54:41 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:54:41 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:56:37 2018] [error] [client 189.90.15.34] PHP Warning:  require(vendor/autoload.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 8, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:56:37 2018] [error] [client 189.90.15.34] PHP Warning:  require(vendor/autoload.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 8, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:56:37 2018] [error] [client 189.90.15.34] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 8, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:58:30 2018] [error] [client 189.90.15.34] PHP Warning:  require(vendor/autoload.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 8, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:58:30 2018] [error] [client 189.90.15.34] PHP Warning:  require(vendor/autoload.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 8, referer: http://esteticamimo.com.br/
+[Tue Dec 04 12:58:30 2018] [error] [client 189.90.15.34] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/pear') in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 8, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:21:05 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:21:06 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 13:23:08 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:23:08 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:23:08 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:23:15 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:23:15 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 13:23:15 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 13:23:20 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:23:20 2018] [error] [client 177.139.195.86] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:23:20 2018] [error] [client 177.139.195.86] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:24:12 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:24:13 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:38:08 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:54:19 2018] [error] [client 189.68.213.83] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:56:04 2018] [error] [client 189.68.213.83] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:56:05 2018] [error] [client 189.68.213.83] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 13:56:32 2018] [error] [client 179.204.32.83] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:56:33 2018] [error] [client 179.204.32.83] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 13:56:49 2018] [error] [client 179.204.32.83] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 14:11:26 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 14:11:26 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:14:35 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 14:14:36 2018] [error] [client 66.249.85.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 14:14:36 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:14:45 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticafacial/
+[Tue Dec 04 14:14:46 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:21:35 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 14:21:35 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:21:39 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticacorporal/
+[Tue Dec 04 14:21:40 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:23:22 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 14:23:22 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:27:31 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 14:27:32 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:27:37 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/salao/
+[Tue Dec 04 14:27:38 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:28:30 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Tue Dec 04 14:28:31 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:30:28 2018] [error] [client 66.249.85.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/cilios/
+[Tue Dec 04 14:30:28 2018] [error] [client 66.249.85.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 14:36:40 2018] [error] [client 191.177.187.31] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 14:36:41 2018] [error] [client 191.177.187.31] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 15:29:39 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:29:40 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 15:29:56 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:29:56 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:29:56 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:30:00 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27
+[Tue Dec 04 15:30:00 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27
+[Tue Dec 04 15:30:00 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27
+[Tue Dec 04 15:30:03 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:30:04 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 15:30:04 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 15:30:11 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:30:11 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:30:11 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:18 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 15:34:19 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 15:34:26 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:26 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:26 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:52 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:52 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 15:34:52 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 15:34:58 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:58 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:34:58 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:36:39 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:36:39 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:36:39 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:36:48 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:36:48 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:36:48 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:42:22 2018] [error] [client 66.102.8.196] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/googlebea21527191afb84.html
+[Tue Dec 04 15:43:54 2018] [error] [client 66.249.66.86] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Tue Dec 04 15:47:28 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:28 2018] [error] [client 94.130.182.109] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 15:47:28 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:28 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:28 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:28 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:28 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/browserconfig.xml, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/61147623, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:29 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:30 2018] [error] [client 66.249.93.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:47:30 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:30 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 15:47:31 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:31 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:31 2018] [error] [client 95.216.34.250] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 15:47:31 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 15:47:31 2018] [error] [client 66.249.93.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 15:47:31 2018] [error] [client 66.249.93.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 15:47:32 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:32 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/test_error_page_url, referer: http://google.com
+[Tue Dec 04 15:47:33 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/index.php, referer: http://google.com
+[Tue Dec 04 15:47:34 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:34 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:43 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 15:47:46 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 16:13:10 2018] [error] [client 66.249.66.84] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 16:13:43 2018] [error] [client 66.249.66.84] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico
+[Tue Dec 04 16:21:41 2018] [error] [client 66.249.66.84] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/cilios/
+[Tue Dec 04 17:10:33 2018] [error] [client 66.249.66.85] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico
+[Tue Dec 04 17:51:23 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:51:23 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 17:57:02 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:57:03 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 17:57:03 2018] [error] [client 177.139.195.86] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 17:57:28 2018] [error] [client 94.130.182.122] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/4652585, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/browserconfig.xml, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:29 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:30 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:30 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:30 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:30 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:57:30 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:57:30 2018] [error] [client 94.130.182.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 17:57:31 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:31 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:31 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:31 2018] [error] [client 66.249.93.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 17:57:31 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 17:57:32 2018] [error] [client 66.249.93.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 17:57:32 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/test_error_page_url, referer: http://google.com
+[Tue Dec 04 17:57:32 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/index.php, referer: http://google.com
+[Tue Dec 04 17:57:33 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:36 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:37 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:37 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:37 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:37 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:37 2018] [error] [client 94.130.182.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 17:57:38 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:43 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:58 2018] [error] [client 94.130.182.110] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/87091387, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 54.221.144.26] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Tue Dec 04 17:57:59 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:57:59 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:00 2018] [error] [client 54.221.144.26] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Tue Dec 04 17:58:00 2018] [error] [client 54.162.203.18] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:00 2018] [error] [client 54.87.27.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:00 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:00 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:00 2018] [error] [client 66.249.93.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:00 2018] [error] [client 94.130.182.122] mod_mime_magic: invalid type 0 in mconvert()., referer: http://google.com
+[Tue Dec 04 17:58:01 2018] [error] [client 94.130.182.109] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:01 2018] [error] [client 66.249.93.39] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 17:58:01 2018] [error] [client 66.249.93.33] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 17:58:01 2018] [error] [client 94.130.182.110] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:01 2018] [error] [client 66.249.93.36] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 17:58:02 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/test_error_page_url, referer: http://google.com
+[Tue Dec 04 17:58:02 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/index.php, referer: http://google.com
+[Tue Dec 04 17:58:02 2018] [error] [client 54.162.203.18] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:03 2018] [error] [client 54.87.27.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:03 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:03 2018] [error] [client 95.216.34.250] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:05 2018] [error] [client 54.205.206.170] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:05 2018] [error] [client 54.87.27.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:08 2018] [error] [client 54.87.27.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:08 2018] [error] [client 54.205.206.170] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 17:58:25 2018] [error] [client 94.130.182.122] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:54 2018] [error] [client 176.9.99.232] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 17:58:55 2018] [error] [client 78.46.206.172] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt, referer: http://google.com
+[Tue Dec 04 18:46:37 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:46:37 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 18:46:51 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:46:53 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:46:53 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 18:48:04 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:48:05 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:48:05 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 18:48:29 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:48:29 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:48:53 2018] [error] [client 35.227.83.123] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Tue Dec 04 18:50:35 2018] [error] [client 54.174.55.193] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Tue Dec 04 18:50:38 2018] [error] [client 54.174.54.72] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:50:39 2018] [error] [client 54.174.55.125] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 18:50:45 2018] [error] [client 54.174.54.69] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/cilios/
+[Tue Dec 04 18:50:50 2018] [error] [client 54.174.54.69] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esmalteria/
+[Tue Dec 04 18:50:54 2018] [error] [client 54.174.55.124] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticacorporal/
+[Tue Dec 04 18:50:58 2018] [error] [client 54.174.55.116] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/esteticafacial/
+[Tue Dec 04 18:51:02 2018] [error] [client 54.174.55.129] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/faq/
+[Tue Dec 04 18:51:09 2018] [error] [client 54.174.55.193] mod_mime_magic: invalid type 0 in mconvert().
+[Tue Dec 04 18:51:10 2018] [error] [client 54.174.55.123] mod_mime_magic: invalid type 0 in mconvert().
+[Tue Dec 04 18:51:12 2018] [error] [client 54.174.54.72] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/micropigmentacao/
+[Tue Dec 04 18:51:16 2018] [error] [client 54.174.55.124] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/salao/
+[Tue Dec 04 18:51:34 2018] [error] [client 35.175.195.242] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/robots.txt
+[Tue Dec 04 18:51:34 2018] [error] [client 34.207.132.76] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:51:34 2018] [error] [client 54.210.165.89] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/hzcYQqp0FnHo4i
+[Tue Dec 04 18:51:34 2018] [error] [client 34.207.132.76] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:51:34 2018] [error] [client 54.158.33.189] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:51:35 2018] [error] [client 66.102.8.193] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:51:35 2018] [error] [client 34.207.132.76] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:51:35 2018] [error] [client 34.207.132.76] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 18:51:35 2018] [error] [client 34.207.132.76] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:51:35 2018] [error] [client 54.158.33.189] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:51:35 2018] [error] [client 34.207.132.76] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 18:51:36 2018] [error] [client 66.102.8.196] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/product.css
+[Tue Dec 04 18:51:48 2018] [error] [client 54.197.209.189] mod_mime_magic: invalid type 0 in mconvert().
+[Tue Dec 04 18:51:49 2018] [error] [client 54.197.209.189] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico
+[Tue Dec 04 18:51:49 2018] [error] [client 54.197.209.189] File does not exist: /home/storage/7/f9/f9/esteticamimo/public_html/favicon.ico
+[Tue Dec 04 18:54:05 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 18:54:05 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 19:02:16 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:02:17 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/form/css/font-awesome.min.css
+[Tue Dec 04 19:02:26 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:02:26 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:02:26 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:05:21 2018] [error] [client 189.90.15.34] mod_mime_magic: invalid type 0 in mconvert()., referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:07:40 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:07:40 2018] [error] [client 189.90.15.34] PHP Warning:  Unexpected character in input:  '\\' (ASCII=92) state=1 in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/
+[Tue Dec 04 19:07:40 2018] [error] [client 189.90.15.34] PHP Parse error:  syntax error, unexpected T_STRING in /home/storage/7/f9/f9/esteticamimo/public_html/form.php on line 27, referer: http://esteticamimo.com.br/

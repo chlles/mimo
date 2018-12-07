@@ -24,6 +24,10 @@ a {
   text-decoration: none!important;
 }
 
+button.navbar-toggler {
+  margin-right: 15px!important;
+}
+
 @font-face {
   font-family: 'Akrobat Regular';
   font-style: normal;

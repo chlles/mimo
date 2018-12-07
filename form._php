@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <?php
+
+        function error_handler($e) {
+            var_dump($e);
+
+            die;
+        }
+
+        set_error_handler('error_handler');
+        set_exception_handler('error_handler');
+
+
+        // Dados obtidos pelo formulário
+        $nomeremetente = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
+        $emailremetente = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
+        $assunto = filter_input(INPUT_POST, 'subject', FILTER_SANITIZE_STRING);
+        $mensagem = filter_input(INPUT_POST, 'message', FILTER_SANITIZE_STRING);
+
+
+        /* Montando a mensagem a ser enviada no corpo do e-mail. */
+        $mensagemHTML = '<strong>Formulário de Contato</strong>
+        <p><b>Nome:</b> '.$nomeremetente.'
+        <p><b>E-Mail:</b> '.$emailremetente.'
+        <p><b>Assunto:</b> '.$assunto.'
+        <p><b>Mensagem:</b> '.$mensagem.'</p>
+        <hr>';
+
+
+        require 'vendor/autoload.php';
+
+        $from = new SendGrid\Email("Contato", "contato@esteticamimo.com.br");
+        $subject = "Mensagem de contato";
+        $to = new SendGrid\Email("Chlles", "chllesfernandes@gmail.com");
+        $content = new SendGrid\Content("text/html", "Olá, <br><br>Nova mensagem de contato: <br><br>" . $mensagemHTML);
+        $mail = new SendGrid\Mail($from, $subject, $to, $content);
+
+        //Necessário inserir a chave
+        $apiKey = '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';
+        $sg = new \SendGrid($apiKey);
+
+        $response = $sg->client->mail()->send()->post($mail);
+        var_dump($response);
+        var_dump($mensagemHTML);
+        ?>
+    </body>
+</html>

@@ -17,7 +17,7 @@
 
 
     <!-- Bootstrap core CSS -->
-    <link href="../node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../bootstrap/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../product.css" rel="stylesheet">
@@ -49,23 +49,23 @@
 <body>
 <nav class="navbar navbar-expand-sm fixed-top navbar-light">
     <div class="container">
-        <a class="navbar-brand" href="../index.html"><img class="logonav" src="../img/logobranco.png"/></a>
+        <a class="navbar-brand" href="../"><img class="logonav" src="../img/logobranco.png"/></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbar1">
             <ul class="navbar-nav ml-auto Akrobat">
                 <li class="nav-item active">
-                    <a class="nav-link" href="../index.html">HOME</a>
+                    <a class="nav-link" href="../">HOME</a>
                 </li>
                 <li class="nav-item ml-md-2">
-                    <a class="nav-link" href="../index.html#about">SOBRE</a>
+                    <a class="nav-link" href="../#about">SOBRE</a>
                 </li>
                 <li class="nav-item ml-md-2">
-                    <a class="nav-link" href="../index.html#services">SERVIÇOS</a>
+                    <a class="nav-link" href="../#services">SERVIÇOS</a>
                 </li>
                 <li class="nav-item ml-md-2">
-                    <a class="nav-link" href="../index.html#contact">CONTATO</a>
+                    <a class="nav-link" href="../#contact">CONTATO</a>
                 </li>
                 <li class="nav-item ml-md-2">
                     <a class="nav-link" href="../faq/">FAQ</a>
@@ -127,9 +127,66 @@
                         </p>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             IMPORTANTE: A Resistência e a durabilidade dos alongamentos vai depender do período de adaptação e os cuidados, podendo chegar até 30 dias. A manutenção dos alongamentos é opcional para mantê-los com aspecto saudável e natural. Porém, se a extensão passar dos 30 dias é feita a remoção e o processo é iniciado do zero.<br/>
-                            *Não parcelamos valores.*<br/>
-                            Trabalhamos com 04 técnicas de alongamento de unha:
                         </p>
+                    </div>
+                </div>
+                <br/>
+                <div class="col-md-12 container my-lg-5">
+                    <div class="col-md-4 col-xs-12 imgaporcelana" style="float:left;">
+                    </div>
+                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
+                        <h3 class="textPink font-weight-bold">PORCELANA</h3>
+                        <p style="letter-spacing: 0.8px">
+                            Esta técnica é indicada para unhas bastante roídas e também oleosas, pois tem uma excelente fixação. O pó de acrílico é misturado com o monomer, formando assim o componente que dá o alongamento. O procedimento pode ser feito tanto com prótese quanto com molde, e é uma das técnicas mais resistentes.
+                            <br>CONTRA-INDICAÇÃO: <br>Gestantes  e lactantes não podem fazer o procedimento.
+                        </p>
+                        <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
+                            1º alongamento R$ 220 <br/>
+                            Manutenção em até 03 semanas (21 dias): R$ 120
+
+                        </p>
+                        <div class="nav-item">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento">AGENDAR</a>
+                        </div>
+
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Gestantes não podem realizar o procedimento!<br/>
+                                            Em caso de incidência de fungos, só é possível realizar o procedimento após a cura total.<br/>
+                                            Se você tem o hábito de roer unhas, antes de agendar, envie uma foto para nossa equipe avaliar por whatsapp;
+                                        </p>
+                                    </div>
+                                    <button data-dismiss="modal">
+                                        <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter5" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalCenter5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <iframe id="agendaWidgetSalaoVip5" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
                 <br/>
@@ -142,7 +199,7 @@
                             <b>GEL COM PRÓTESE (TIP)</b> é um alongamento simples. É um pouco menos resistente quanto os outros procedimentos. Ele é uma prótese que é colada do meio da unha, e após lixar, e cortamos de acordo com o tamanho e formato desejado. Em seguida passamos o gel por cima da prótese, que é lixada para obter um nivelamento.
                         </p>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                            O primeiro alongamento tem custo de R$ 165<br/>
+                            1º alongamento R$ 165<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100
                         </p>
                         <div class="nav-item">
@@ -197,71 +254,12 @@
                             <b>GEL COM MOLDE (100%)</b> é um alongamento feito através de um molde colocado no entorno do dedo da cliente e são feitas aplicações de gel para dar o formato e tamanho desejado. Como acabamento, é retirado o molde e o produto é lixado até obter um nivelamento natural.
                         </p>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                            O primeiro alongamento tem custo de R$ 185 <br/>
+                            1º alongamento R$ 185 <br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100
                         </p>
                         <div class="nav-item">
                             <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimentoGel">AGENDAR</a>
                         </div>
-                    </div>
-                </div>
-                <br/>
-                <div class="col-md-12 container my-lg-5">
-                    <div class="col-md-4 col-xs-12 imgaporcelana" style="float:left;">
-                    </div>
-                    <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
-                        <h3 class="textPink font-weight-bold">PORCELANA</h3>
-                        <p style="letter-spacing: 0.8px">
-                            Esta técnica é indicada para unhas bastante roídas e também oleosas, pois tem uma excelente fixação. O pó de acrílico é misturado com o monomer, formando assim o componente que dá o alongamento. O procedimento pode ser feito tanto com prótese quanto com molde, e é uma das técnicas mais resistentes.
-                            *CONTRA-INDICAÇÃO:* Gestantes  e lactantes não podem fazer o procedimento.
-                        </p>
-                        <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                            O primeiro alongamento tem custo de R$ 220 <br/>
-                            Manutenção em até 03 semanas (21 dias): R$ 120
-
-                        </p>
-                        <div class="nav-item">
-                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento">AGENDAR</a>
-                        </div>
-
-                        <!-- Modal Impedimento -->
-                        <div class="modal fade" id="exampleModalCenterImpedimento" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
-                                        </button>
-                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
-                                        <p class="textDarkGrey text-center">
-                                            Gestantes não podem realizar o procedimento!<br/>
-                                            Em caso de incidência de fungos, só é possível realizar o procedimento após a cura total.<br/>
-                                            Se você tem o hábito de roer unhas, antes de agendar, envie uma foto para nossa equipe avaliar por whatsapp;
-                                        </p>
-                                    </div>
-                                    <button data-dismiss="modal">
-                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter5" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Modal -->
-                        <div class="modal fade" id="exampleModalCenter5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
-                                        </button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <iframe id="agendaWidgetSalaoVip5" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
                     </div>
                 </div>
                 <br/>
@@ -274,7 +272,7 @@
                             São fios da fibra de vidro colocados sobre a unha, moldados de acordo com o formato natural da unha. É feita uma aplicação de gel em cima da fibra e para finalização, o excesso é retirado através de lixamento para deixar de forma nivelada.
                         </p>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                            O primeiro alongamento tem custo de R$ 205<br/>
+                            1º alongamento R$ 205<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 110
 
                         </p>
@@ -330,7 +328,7 @@
                     <p style="letter-spacing: 0.8px">
                         É o mesmo procedimento do Gel com prótese (TIP), porém é acrescentado Pó de Fibra de Vidro, fazendo com que fique mais resistente.                    </p>
                     <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                        O primeiro alongamento tem custo de R$ 175<br/>
+                        1º alongamento R$ 175<br/>
                         Manutenção em até 03 semanas (21 dias): R$ 100
 
                     </p>
@@ -346,10 +344,10 @@
                     <div class="col-md-8 col-xs-12" style="margin-left: 240px;">
                         <h3 class="textPink font-weight-bold">AGRIGEL COM MOLDE (100%)</h3>
                         <p style="letter-spacing: 0.8px">
-                            É o mesmo procedimento citado acima, porém é acrescentado Pó de Fibra de Vidro, fazendo com que o alongamento fique um pouco mais resiste.
+                            É semelhante ao procedimento de Gel Molde, porém é acrescentado Pó de Fibra de Vidro, fazendo com que o alongamento fique um pouco mais resiste.
                         </p>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                            O primeiro alongamento tem custo de R$ 195 <br/>
+                            1º alongamento R$ 195 <br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100
 
                         </p>
@@ -381,7 +379,6 @@
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 130.<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 100.<br/>
-                            *Não parcelamos valores.*
                         </p>
                         <div class="nav-item">
                             <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
@@ -435,8 +432,6 @@
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 135.<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 105.<br/>
-                            *Não parcelamos valores.*
-
                         </p>
                         <div class="nav-item">
                             <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
@@ -452,8 +447,6 @@
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 140.<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 110.<br/>
-                            *Não parcelamos valores.*
-
                         </p>
                         <div class="nav-item">
                             <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
@@ -469,7 +462,6 @@
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
                             O Primeiro procedimento tem o custo de R$ 150.<br/>
                             Manutenção em até 03 semanas (21 dias): R$ 120.<br/>
-                            *Não parcelamos valores.*
                         </p>
                         <div class="nav-item">
                             <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimento7">AGENDAR</a>
@@ -549,7 +541,7 @@
                     </tr>
                     <tr>
                         <th scope="row">PORCELANA + PEDICURE</th>
-                        <td>R$ 155,00</td>
+                        <td>R$ 255,00</td>
                     </tr>
                     <tr>
                         <th scope="row">BANHO DE ACRIGEL + PEDICURE</th>
@@ -632,9 +624,9 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="../node_modules/jquery/dist/jquery.slim.min.js"><\/script>')</script>
-<script src="../node_modules/popper.js/dist/popper.min.js"></script>
-<script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+<script>window.jQuery || document.write('<script src="../bootstrap/jquery/dist/jquery.slim.min.js"><\/script>')</script>
+<script src="../bootstrap/popper.js/dist/popper.min.js"></script>
+<script src="../bootstrap/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="../form/main.js"></script>
 <script src="../main.js"></script>
 
