@@ -113,7 +113,7 @@ if ($_POST) {
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbar2">
-            <ul class="navbar-nav ml-auto Akrobat">
+            <ul class="navbar-nav ml-auto  ">
                 <li class="nav-item active">
                     <a class="nav-link" href="http://esteticamimo.com.br">HOME</a>
                 </li>
@@ -122,6 +122,9 @@ if ($_POST) {
                 </li>
                 <li class="nav-item ml-md-2">
                     <a class="nav-link scroll" href="#services">SERVIÇOS</a>
+                </li>
+                <li class="nav-item ml-md-2">
+                    <a class="nav-link scroll" href="#promo">PROMOÇÕES</a>
                 </li>
                 <li class="nav-item ml-md-2">
                     <a class="nav-link scroll" href="#contact">CONTATO</a>
@@ -173,20 +176,20 @@ if ($_POST) {
                 com preços baixos. Sabemos que hoje a auto estima está diretamente ligada a nossa saúde mental, e tentamos oferecer
                 um equilíbrio, respeitando as características individuais de cada um entre, saúde, bem estar e estética.
             </p>
-            <p class="lead font-weight-normal text-align-right textPink text-uppercase comSerifa ">Você merece esse mimo</p>
+            <p class="lead font-weight-normal text-align-right textPink text-uppercase Akrobat ">Você merece esse mimo</p>
         </div>
     </div>
 </div>
 
 <div class="position-relative overflow-hidden p-3 text-center backgroundPink">
     <div class="col-md-12 mx-auto my-5">
-        <p class="lead text-white font-weight-bold">TODAS AS ÁREAS DE BELEZA PARA VOCÊ SE SENTIR COMPLETA</p>
+        <p class="lead text-white font-weight-normal">TODAS AS ÁREAS DE BELEZA PARA VOCÊ SE SENTIR COMPLETA</p>
     </div>
 </div>
 
 <div id="services">
     <!-- Mobile -->
-    <ul class="container nav nav-pills mt-5 mb-5 Akrobat d-sm-none" id="pills-tab" role="tablist">
+    <ul class="container nav nav-pills mt-5 mb-5   d-sm-none" id="pills-tab" role="tablist">
         <li class="nav-item" style="margin: auto">
             <a class="nav-link active" data-toggle="pill" role="tab" aria-controls="pills-alongamentos" aria-selected="true">
                 CATEGORIAS</a>
@@ -242,7 +245,7 @@ if ($_POST) {
         <div class="sessoes container" >
             <div class="content">
                 <div class="content-overlay"></div>
-                <img class="content-image" src="img/esmalteria.jpg" alt="ESMALTERIA">
+                <img class="content-image" src="img/esmalteria.png" alt="ESMALTERIA" style="min-width: 500px;">
                 <div class="content-details fadeIn-top">
                     <h3>ESMALTERIA</h3>
                     <a class="btn btnSeeMore" href="esmalteria/">SAIBA MAIS</a>
@@ -253,7 +256,7 @@ if ($_POST) {
         <div class="sessoes container">
             <div class="content">
                 <div class="content-overlay"></div>
-                <img class="content-image" src="img/corporal.jpg" alt="ESTÉTICA CORPORAL">
+                <img class="content-image" src="img/corporal.png" alt="ESTÉTICA CORPORAL" style="min-width: 500px;">
                 <div class="content-details fadeIn-top">
                     <h3>ESTÉTICA CORPORAL</h3>
                     <a class="btn btnSeeMore" href="esteticacorporal/">SAIBA MAIS</a>
@@ -264,7 +267,7 @@ if ($_POST) {
         <div class="sessoes container">
             <div class="content">
                 <div class="content-overlay"></div>
-                <img class="content-image" src="img/salao.jpeg" style="min-width:600px;" alt="SALÃO">
+                <img class="content-image" src="img/salao.png" style="min-width:600px;" alt="SALÃO">
                 <div class="content-details fadeIn-top">
                     <h3>SALÃO</h3>
                     <a class="btn btnSeeMore" href="salao/">SAIBA MAIS</a>
@@ -275,7 +278,7 @@ if ($_POST) {
         <div class="sessoes container">
             <div class="content">
                 <div class="content-overlay"></div>
-                <img class="content-image" src="img/facial.png" alt="ESTÉTICA FACIAL">
+                <img class="content-image" src="img/facial.png" alt="ESTÉTICA FACIAL" style="min-width: 500px;">
                 <div class="content-details fadeIn-top">
                     <h3>ESTÉTICA FACIAL</h3>
                     <a class="btn btnSeeMore" href="esteticafacial/">SAIBA MAIS</a>
@@ -286,7 +289,7 @@ if ($_POST) {
         <div class="sessoes container">
             <div class="content">
                 <div class="content-overlay"></div>
-                <img class="content-image" src="img/cilios.png" alt="CÍLIOS E DESIGN">
+                <img class="content-image" src="img/cilios.png" alt="CÍLIOS E DESIGN" style="min-width: 500px;">
                 <div class="content-details fadeIn-top">
                     <h3>CÍLIOS E DESIGN</h3>
                     <a class="btn btnSeeMore" href="cilios/">SAIBA MAIS</a>
@@ -297,7 +300,7 @@ if ($_POST) {
         <div class="sessoes container">
             <div class="content">
                 <div class="content-overlay"></div>
-                <img class="content-image" src="img/micro.jpeg" style="min-width:600px;" alt="MICROPIGMENTAÇÃO">
+                <img class="content-image" src="img/micro.png" style="min-width:600px;" alt="MICROPIGMENTAÇÃO">
                 <div class="content-details fadeIn-top">
                     <h3>MICROPIGMENTAÇÃO </h3>
                     <a class="btn btnSeeMore" href="micropigmentacao/">SAIBA MAIS</a>
@@ -371,7 +374,7 @@ if ($_POST) {
     </div>
 </div>
 
-
+<div id="promo">
 <div id="carouselExampleIndicators3" class="carousel slide d-none d-sm-block" data-ride="carousel" style="height: 100%;
     overflow: hidden; margin: 0; padding: 0;">
     <div class="carousel-inner">
@@ -450,7 +453,7 @@ if ($_POST) {
         <span class="sr-only">Next</span>
     </a>
 </div>
-
+</div>
 
 <div class="layerCor" id="contact">
     <div class="backgroundLogo py-md-5">
