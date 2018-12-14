@@ -65,7 +65,7 @@
                     <a class="nav-link" href="../#services">SERVIÇOS</a>
                 </li>
                 <li class="nav-item ml-md-2">
-                    <a class="nav-link scroll" href="../#promo">PROMOÇÕES</a>
+                    <a class="nav-link" href="../#promo">PROMOÇÕES</a>
                 </li>
                 <li class="nav-item ml-md-2">
                     <a class="nav-link" href="../#contact">CONTATO</a>
@@ -107,8 +107,8 @@
 
 <!-- Navegacao -->
 <ul class="nav nav-pills mt-5 mb-5  " id="pills-tab" role="tablist" style="padding-right: 10%;">
-    <li class="nav-item">
-        <a class="nav-link" href="../#services" style="font-size: 14px; width: 101%; margin-left: 36px; text-transform: lowercase;">
+    <li class="nav-item voltarBtn">
+        <a class="nav-link " href="../#services" style="font-size: 14px; width: 101%; margin-left: 36px; text-transform: lowercase;">
             &lt; voltar
         </a>
     </li>
@@ -135,7 +135,7 @@
     <div class="tab-pane fade show active" id="pills-aparelhos" role="tabpanel" aria-labelledby="pills-aparelhos">
         <div class="col-md-12 mt-4 position-relative">
             <div class="text-left  ">
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgradiofreq" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -144,17 +144,38 @@
                             A <b>Radiofrequência</b> é um procedimento estético voltado para perda de medidas. Utilizamos glicerina para deslizar a máquina hértix que faz o bombardeamento na gordura localizada, celulite e trata a flacidez da pele. É mais eficaz que criolipólise, pois o resultado é imediato.
                         </p>
                         <p class="font-weight-bold textDarkGrey" style="font-size: 16px;">
-                        <p style="margin-bottom:0!important; font-size:20px!important;">Sessão Individual: R$ 90,00 </p>
-                            Pacote com 05 sessões: R$ 400,00 (em até 2x no cartão de crédito)<br/>
-                            Pacote com 10 sessões: R$ 700,00 (em até 4x no cartão de crédito)
+                            <p style="margin-bottom:0!important; font-size:20px!important;">Sessão Individual: R$ 90,00 </p>
+                                Pacote com 05 sessões: R$ 400,00 (em até 2x no cartão de crédito)<br/>
+                                Pacote com 10 sessões: R$ 700,00 (em até 4x no cartão de crédito)
                         </p>
                         <div class="nav-item">
-                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">AGENDAR</a>
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimentoRad">AGENDAR</a>
                         </div>
                     </div>
                 </div>
+
+                <!-- Modal Impedimento -->
+                <div class="modal fade" id="exampleModalCenterImpedimentoRad" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                                <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                <p class="textDarkGrey text-center">
+                                    É contra indicado para pessoas que tem melasma na região facial.<br/>
+                                    Proibido fazer o procedimento em gestantes, em áreas com quelóide ou que haja próteses metálicas e portadores de diabetes.
+                                </p>
+                            </div><button data-dismiss="modal">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
+                        </div>
+                    </div>
+                </div>
+
+
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgcorrenterussa" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -169,12 +190,32 @@
                             Valor atrelada junto a uma massagem (indicado para obter um resultado mais efetivo): R$ 40,00
                         </p>
                         <div class="nav-item">
-                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter">AGENDAR</a>
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterImpedimentoRus">AGENDAR</a>
                         </div>
                     </div>
                 </div>
+
+
+                <!-- Modal Impedimento -->
+                <div class="modal fade" id="exampleModalCenterImpedimentoRus" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                                <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                <p class="textDarkGrey text-center">
+                                    Pessoas com qualquer disfunção cardíaca não podem fazer este procedimento.
+                                </p>
+                            </div><button data-dismiss="modal">
+                            <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
+                        </div>
+                    </div>
+                </div>
+
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgendermo" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -195,7 +236,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgpump" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -216,7 +257,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgcriofreq" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -284,7 +325,7 @@
     <div class="tab-pane fade" id="pills-massagem" role="tabpanel" aria-labelledby="pills-massagem">
         <div class="col-md-12 mt-4 position-relative">
             <div class="text-left  ">
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgmlinfatica" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -303,7 +344,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgmodeladora" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -323,7 +364,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgmimodetox" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -342,7 +383,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgmdrenodetox" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -361,7 +402,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgmrelaxante" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">
@@ -379,7 +420,7 @@
                     </div>
                 </div>
                 <br/>
-                <div class="col-md-12 container my-lg-5">
+                <div class="col-md-12 container my-5">
                     <div class="col-md-4 imgmdrenamod" style="float:left;">
                     </div>
                     <div class="col-md-8" style="margin-left: 240px;">

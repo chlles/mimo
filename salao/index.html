@@ -65,7 +65,7 @@
                     <a class="nav-link" href="../#services">SERVIÇOS</a>
                 </li>
                 <li class="nav-item ml-md-2">
-                    <a class="nav-link scroll" href="../#promo">PROMOÇÕES</a>
+                    <a class="nav-link" href="../#promo">PROMOÇÕES</a>
                 </li>
                 <li class="nav-item ml-md-2">
                     <a class="nav-link" href="../#contact">CONTATO</a>
@@ -113,13 +113,13 @@
 <!--</ul>-->
 <!--Content-->
 <ul class="nav nav-pills mt-5 mb-5  " id="pills-tab" role="tablist" style="padding-right: 10%;">
-    <li class="nav-item">
+    <li class="nav-item voltarBtn">
         <a class="nav-link" href="../#services" style="font-size: 14px; width: 101%; margin-left: 36px; text-transform: lowercase;">
             &lt; voltar
         </a>
     </li>
 </ul>
-<div class="tab-content  mt-lg-5 mb-lg-5" id="pills-tabContent">
+<div class="tab-content  mt-lg-5 mb-lg-5 Akrobat" id="pills-tabContent">
     <div class="tab-pane fade show active" id="pills-salao" role="tabpanel" aria-labelledby="pills-salao">
         <div class="col-md-12 mt-4 position-relative">
             <div class="text-left  " id="fixmobile">
@@ -249,15 +249,33 @@
                             </tbody>
                         </table>
                         <div class="align-btn row" style="display:flex;">
-                            <div class="nav-item" style="width: 50%">
-                                <a class="btn btnAgendamento alignbutCenter" style="width: 80%" href="https://docs.google.com/forms/d/e/1FAIpQLSdBq1C_-VIcjEEsaAPyvGYpcrS9saxNPEDuwWo58j-cx0qZGA/viewform">ORÇAMENTO FEH VITORINO</a>
+                            <div class="nav-item btnSalao">
+                                <a class="btn btnAgendamento alignbutCenter" style="width: 80%" href="https://docs.google.com/forms/d/e/1FAIpQLSdBq1C_-VIcjEEsaAPyvGYpcrS9saxNPEDuwWo58j-cx0qZGA/viewform" target="_blank">ORÇAMENTO FEH VITORINO</a>
                             </div>
 
-                            <div class="nav-item" style="width: 50%">
-                                <a class="btn btnAgendamento alignbutCenter" style="width: 80%" data-toggle="modal" data-target="#exampleModalCenter2">AGENDAR</a>
+                            <div class="nav-item btnSalao">
+                                <a class="btn btnAgendamento alignbutCenter" style="width: 80%" data-toggle="modal" data-target="#exampleModalCenterImpedimento2">AGENDAR</a>
                             </div>
                         </div>
 
+                        <!-- Modal Impedimento -->
+                        <div class="modal fade" id="exampleModalCenterImpedimento2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                        <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                                        <p class="textDarkGrey text-center">
+                                            Certifique-se de já ter recebido a resposta do orçamento antes de agendar algum tipo de coloração, pois valores e procedimentos podem ser alterados no dia e depende de disponibilidade de agenda. <br/>
+                                            Caso já tenha respondido o formulário, entrar em contato por Whatsapp.
+                                        </p>
+                                    </div><button data-dismiss="modal">
+                                    <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenter2" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
+                                </div>
+                            </div>
+                        </div>
 
                         <!-- Modal -->
                         <div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -269,7 +287,7 @@
                                         </button>
                                     </div>
                                     <div class="modal-body">
-                                        <iframe id="agendaWidgetSalaoVip" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
+                                        <iframe id="agendaWidgetSalaoVip2" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
                                     </div>
                                 </div>
                             </div>

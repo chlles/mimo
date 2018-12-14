@@ -534,13 +534,13 @@ if ($_POST) {
                     <h5 class="text-white text-redes">NOS ACOMPANHE <br/> NAS REDES SOCIAIS</h5>
                     <ul class="navbar-nav ml-auto" style="display: -webkit-inline-box;">
                         <li class="nav-item active">
-                            <a class="nav-link" href="https://www.instagram.com/mimoestetica/"><i class="fab fa-instagram textPink"></i></a>
+                            <a class="nav-link" href="https://www.instagram.com/mimoestetica/" target="_blank"><i class="fab fa-instagram textPink"></i></a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="https://www.facebook.com/mimocuidadoebeleza/"><i class="fab fa-facebook-square textPink pl-4 pr-4 "></i></a>
+                            <a class="nav-link" href="https://www.facebook.com/mimocuidadoebeleza/" target="_blank"><i class="fab fa-facebook-square textPink pl-4 pr-4 "></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://api.whatsapp.com/send?1=pt_BR&phone=5511994781012"><i class="fab fa-whatsapp textPink"></i></a>
+                            <a class="nav-link" href="https://api.whatsapp.com/send?1=pt_BR&phone=5511994781012" target="_blank"><i class="fab fa-whatsapp textPink"></i></a>
                         </li>
                     </ul>
                 </div>

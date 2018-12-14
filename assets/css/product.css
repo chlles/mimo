@@ -394,7 +394,11 @@ nav{
   padding: 0;
   float: left;
   width: 50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
+
 @media screen and (max-width: 640px){
   .sessoes.container{
     display: block;
@@ -674,6 +678,34 @@ textarea {
 
 ***********************************/
 @media only screen and (max-width: 750px) {
+  .nav-pills {
+    display: list-item;
+    width: 66%;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    padding-right: 0 !important;
+  }
+
+  .align-btn>.navitem {
+    width: 100%!important;
+    padding: 25px!important;;
+  }
+
+  .voltarBtn a{
+    margin-left:0!important;
+    text-align:left;
+    margin-bottom: 15px;
+  }
+
+  .nav-pills li>a {
+    margin-top: 15px!important;
+  }
+
+  .nav-item>a {
+    font-size: 15px!important;
+  }
+
   #florzinha{
     order:20!important;
   }

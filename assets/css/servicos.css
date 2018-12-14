@@ -422,12 +422,25 @@
 }
 
 
+/* modal */
+
+.modal-body p{
+    font-size: 14px;
+    text-align: left!important;
+    margin: 28px;
+}
+
 /***********************************
 
  M O B I L E
 
 ***********************************/
 @media only screen and (max-width: 750px) {
+    .btnSalao{
+        width:100%;
+        margin: 10px 0;
+    }
+
     .al1 ,
     .imgmeumimo ,
     .imgmimo ,
@@ -473,7 +486,8 @@
     .corporal-header ,
     .cilios-header ,
     .facial-header {
-        height:300px!important
+        height:300px!important;
+        margin-top: 100px!important;
     }
 
     .micro-header h2,
@@ -564,5 +578,12 @@
 
     #tabelasalao2 th {
         width: 20%;
+    }
+}
+
+@media only screen and (min-width: 980px) {
+    .btnSalao{
+        width:100%!important;
+        margin: 10px 0;
     }
 }
