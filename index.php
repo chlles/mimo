@@ -380,27 +380,27 @@ if ($_POST) {
     <div class="carousel-inner">
         <div class="carousel-item active">
             <div class="d-block w-100">
-                <img src="img/promocional/dez/combofda_01.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/promocional/jan/ferias.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/promocional/dez/combofda_02.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/promocional/jan/promosdomes_cronogramacapilar.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/promocional/dez/combofda_03.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/promocional/jan/promosdomes_cilios.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/promocional/dez/combofda_04.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/promocional/jan/promosdomes_esmalteria.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/promocional/dez/combofda_05.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/promocional/jan/promosdomes_estetica.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
     </div>
@@ -420,27 +420,27 @@ if ($_POST) {
     <div class="carousel-inner">
         <div class="carousel-item active">
             <div class="d-block w-100">
-                <img src="img/mobile_promocional/dez/combofda_01.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/mobile_promocional/jan/promo_janeiro_ferias1.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/mobile_promocional/dez/combofda_02.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/mobile_promocional/jan/promo_janeiro_cronograma-capilar.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/mobile_promocional/dez/combofda_03.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/mobile_promocional/jan/promo_janeiro_cilios.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/mobile_promocional/dez/combofda_04.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/mobile_promocional/jan/promo_janeiro_esmalteria.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
         <div class="carousel-item">
             <div class="d-block w-100">
-                <img src="img/mobile_promocional/dez/combofda_05.png" style="width: 100%" alt="fotos-promoção-do-mês">
+                <img src="img/mobile_promocional/jan/promo_janeiro_estetica.png" style="width: 100%" alt="fotos-promoção-do-mês">
             </div>
         </div>
     </div>
