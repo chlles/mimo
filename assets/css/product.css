@@ -48,6 +48,11 @@ button.navbar-toggler {
   flex: 1;
 }
 
+iframe {
+  border: none !important;
+  min-height: 600px;
+}
+
 @media (min-width: 768px) {
   .flex-md-equal > * {
     -ms-flex: 1;

@@ -569,6 +569,20 @@ if ($_POST) {
 <script src="bootstrap/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="form/main.js"></script>
 <script src="main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
+
+<script>
+    if($('.carousel').length){
+        $('.carousel').carousel({interval: 7000, pause: false });
+        $(".carousel").swipe({
+            swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
+                if (direction == 'left') $(this).carousel('next');
+                if (direction == 'right') $(this).carousel('prev');
+            },
+            allowPageScroll:"vertical"
+        });
+    }
+</script>
 
 <!-- Piwik -->
 <script type="text/javascript">
