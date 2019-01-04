@@ -1,6 +1,7 @@
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+include_once 'x6f7689/MailgunCredentials.php';
 
 require 'vendor/autoload.php';
 
@@ -31,8 +32,8 @@ if ($_POST) {
             $mail->isSMTP();
             $mail->Host = 'smtp.mailgun.org';
             $mail->SMTPAuth = true;
-            $mail->Username = 'postmaster@sandbox9f3592090d614338b56eb9e0a694c9be.mailgun.org';
-            $mail->Password = '33269aed41eac955a092e43b77889cae-52cbfb43-39bc0163';
+            $mail->Username = $MailGunUsername;
+            $mail->Password = $MailGunPassword;
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
 
