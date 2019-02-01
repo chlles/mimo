@@ -192,6 +192,17 @@
     background-position: center;
 }
 
+.imgegipc{
+    background-size: cover;
+    height: 264px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-items: center;
+    background-image: url(img/servicos/facial/depilacao_egipcia.png);
+    background-position: center;
+}
+
 /******* L I M P E Z A *******/
 
 .imglmimo{
@@ -449,6 +460,7 @@
     .imgpcristal ,
     .imgpquimico ,
     .imgmicroagulhamento ,
+    .imgegipc,
     .imglmimo ,
     .imglled ,
     .imglmimovip ,
