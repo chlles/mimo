@@ -222,22 +222,16 @@
 
 .imgmicroagulhamento{
     background-size: cover;
-    height: 264px;
-    width: 80%;
-    margin: auto;
-    display: flex;
-    justify-items: center;
-    background-image: url(img/servicos/facial/microagulhamento.jpg);
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/facial/microagulhamento.jpg");
     background-position: center;
 }
 
 .imgegipc{
     background-size: cover;
-    height: 264px;
-    width: 80%;
-    margin: auto;
-    display: flex;
-    justify-items: center;
+    height: 200px;
+    width: 200px;
     background-image: url(img/servicos/facial/depilacao_egipcia.png);
     background-position: center;
 }
@@ -412,6 +406,14 @@
     background-position: center;
 }
 
+.imgestrias{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/estrias.jpg");
+    background-position: center;
+}
+
 /******* A P A R E L H O S *******/
 
 .imgcorrenterussa{
@@ -495,9 +497,10 @@
 .imgpdiamante ,
 .imgpcristal ,
 .imgpquimico ,
-/*.imgmicroagulhamento ,*/
-/*.imgegipc,*/
+.imgmicroagulhamento,
+.imgegipc,
 .imglmimo ,
+.imgestrias,
 .imglmicro ,
 .imglmimovip ,
 .imglmimodiamante ,
@@ -565,6 +568,7 @@
     .imgagriprot ,
     .imgafibra ,
     .imgagelmolde ,
+    .imgestrias,
     .imgagelprot ,
     .imgaporcelana ,
     .imgmdrenamod ,

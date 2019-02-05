@@ -375,86 +375,86 @@ if ($_POST) {
     </div>
 </div>
 
-<div id="promo">
-<div id="carouselExampleIndicators3" class="carousel slide d-none d-sm-block" data-ride="carousel" style="height: 100%;
-    overflow: hidden; margin: 0; padding: 0;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <div class="d-block w-100">
-                <img src="img/promocional/jan/ferias.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/promocional/jan/promosdomes_cronogramacapilar.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/promocional/jan/promosdomes_cilios.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/promocional/jan/promosdomes_esmalteria.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/promocional/jan/promosdomes_estetica.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators3" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators3" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-
-<!-- Carousel Mobile -->
-<div id="carouselExampleIndicators2" class="carousel slide d-block d-sm-none" data-ride="carousel" style="height: 100%;
-    overflow: hidden; margin: 0; padding: 0;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <div class="d-block w-100">
-                <img src="img/mobile_promocional/jan/promo_janeiro_ferias1.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/mobile_promocional/jan/promo_janeiro_cronograma-capilar.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/mobile_promocional/jan/promo_janeiro_cilios.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/mobile_promocional/jan/promo_janeiro_esmalteria.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-block w-100">
-                <img src="img/mobile_promocional/jan/promo_janeiro_estetica.png" style="width: 100%" alt="fotos-promoção-do-mês">
-            </div>
-        </div>
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-</div>
+<!--<div id="promo">-->
+<!--<div id="carouselExampleIndicators3" class="carousel slide d-none d-sm-block" data-ride="carousel" style="height: 100%;-->
+<!--    overflow: hidden; margin: 0; padding: 0;">-->
+<!--    <div class="carousel-inner">-->
+<!--        <div class="carousel-item active">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/promocional/jan/ferias.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/promocional/jan/promosdomes_cronogramacapilar.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/promocional/jan/promosdomes_cilios.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/promocional/jan/promosdomes_esmalteria.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/promocional/jan/promosdomes_estetica.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <a class="carousel-control-prev" href="#carouselExampleIndicators3" role="button" data-slide="prev">-->
+<!--        <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+<!--        <span class="sr-only">Previous</span>-->
+<!--    </a>-->
+<!--    <a class="carousel-control-next" href="#carouselExampleIndicators3" role="button" data-slide="next">-->
+<!--        <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+<!--        <span class="sr-only">Next</span>-->
+<!--    </a>-->
+<!--</div>-->
+<!---->
+<!--<!-- Carousel Mobile -->
+<!--<div id="carouselExampleIndicators2" class="carousel slide d-block d-sm-none" data-ride="carousel" style="height: 100%;-->
+<!--    overflow: hidden; margin: 0; padding: 0;">-->
+<!--    <div class="carousel-inner">-->
+<!--        <div class="carousel-item active">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/mobile_promocional/jan/promo_janeiro_ferias1.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/mobile_promocional/jan/promo_janeiro_cronograma-capilar.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/mobile_promocional/jan/promo_janeiro_cilios.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/mobile_promocional/jan/promo_janeiro_esmalteria.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="carousel-item">-->
+<!--            <div class="d-block w-100">-->
+<!--                <img src="img/mobile_promocional/jan/promo_janeiro_estetica.png" style="width: 100%" alt="fotos-promoção-do-mês">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">-->
+<!--        <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+<!--        <span class="sr-only">Previous</span>-->
+<!--    </a>-->
+<!--    <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">-->
+<!--        <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+<!--        <span class="sr-only">Next</span>-->
+<!--    </a>-->
+<!--</div>-->
+<!--</div>-->
 
 <div class="layerCor" id="contact">
     <div class="backgroundLogo py-md-5">
