@@ -141,8 +141,31 @@ if ($_POST) {
     </div>
 </nav>
 
-<!-- Modal -->
+<!-- Modal Impedimento -->
 <div class="modal fade" id="exampleModalCenterNav" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h3 class="textPink text-center my-3">ATENÇÃO!</h3>
+                <p class="textDarkGrey text-center">
+                    Para concluir o agendamento é necessário depósito de <b>R$50</b> a fim de evitar segurarmos vagas na agenda e haver falta no dia. Solicitamos que seja depositado em até <b>48 horas</b> após o pré-agendamento para confirmar seu horário. Caso não seja efetuado o agendamento é cancelado para não segurar vaga na agenda.<br/>
+                    <span class="textPink font-weight-bold">
+                                            O restante do valor deverá ser pago no dia do atendimento. Aceitamos dinheiro ou cartão débito/crédito.
+                                        </span><br/>
+                    Pedimos por gentileza que se atente ao horário agendado, pois atrasos superiores a 15 minutos podem ocasionar o cancelamento do seu atendimento sem a possibilidade de novo agendamento.<br/><br/>                                             <span class="textPink font-weight-bold">                                             Dados bancários:<br/>                                             </span>                                             MIMO CENTRO DE BELEZA LTDA<br/>                                             28.038.663/0001-14<br/>                                             BANCO ITAÚ: 341<br/>                                             AGÊNCIA VILLA LOBOS: 2954<br/>                                             CONTA CORRENTE: 17793-3
+
+                </p>
+            </div><button data-dismiss="modal">
+                <a class="btn btnAgendamento" data-toggle="modal" data-target="#exampleModalCenterNav2" style="width: 100%">ENTENDI E QUERO AGENDAR</a> </button>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenterNav2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -151,11 +174,12 @@ if ($_POST) {
                 </button>
             </div>
             <div class="modal-body">
-                <iframe id="agendaWidgetSalaoVipNav" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
+                <iframe id="agendaWidgetSalaoNav" width="100%" height="520px" style="border:none; border-radius: 10px;" src="https://agendamento.salaovip.com.br/?slug=mimoestetica"></iframe>
             </div>
         </div>
     </div>
 </div>
+
 
 
 <div class="position-relative overflow-hidden p-3 text-center bg-header">
@@ -469,6 +493,7 @@ if ($_POST) {
                     <li class="nav-item mt-md-3">
                         <h5 class="textPink font-weight-normal mb-md-1">Telefone</h5>
                         <p>(11) 99478-1012</p>
+                        <p>(11) 3062-8295</p>
                     </li>
                     <li class="nav-item font-weight-light mt-md-3">
                         <h5 class="textPink font-weight-normal mb-md-1">Horário de <br/>funcionamento</h5>
