@@ -498,9 +498,9 @@ if ($_POST) {
                     <li class="nav-item font-weight-light mt-md-3">
                         <h5 class="textPink font-weight-normal mb-md-1">Horário de <br/>funcionamento</h5>
                         <p>SEG À SEX</p>
-                        <p>10h às 19:30h</p>
+                        <p>10:30h às 19:30h</p>
                         <p>SÁB</p>
-                        <p>10h às 16h</p>
+                        <p>10:30h às 15:30h</p>
                     </li>
                 </ul>
             </div>
@@ -625,7 +625,7 @@ if ($_POST) {
 </script>
 <!-- End Piwik Code -->
 
- <!-- <script src="//code.tidio.co/ylbfxpiqcmi2on8duid7rpjgqydlrqne.js"></script>-->
+<script src="//code.tidio.co/ylbfxpiqcmi2on8duid7rpjgqydlrqne.js"></script>
 
 </body>
 </html>
