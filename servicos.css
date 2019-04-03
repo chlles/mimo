@@ -414,6 +414,14 @@
     background-position: center;
 }
 
+.imgpellingintimo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/corporal/areaintima.jpg");
+    background-position: center;
+}
+
 /******* A P A R E L H O S *******/
 
 .imgcorrenterussa{
@@ -501,6 +509,7 @@
 .imgegipc,
 .imglmimo ,
 .imgestrias,
+.imgpellingintimo,
 .imglmicro ,
 .imglmimovip ,
 .imglmimodiamante ,
@@ -569,6 +578,7 @@
     .imgafibra ,
     .imgagelmolde ,
     .imgestrias,
+    .imgpellingintimo,
     .imgagelprot ,
     .imgaporcelana ,
     .imgmdrenamod ,
