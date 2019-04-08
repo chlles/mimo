@@ -354,6 +354,94 @@
     background-position: center;
 }
 
+
+/******* S A L A O *******/
+
+.imgBlond{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/Blond.png");
+    background-position: center;
+}
+
+
+.imgFullBlond{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/FullBlond.png");
+    background-position: center;
+}
+
+.imgFullFantasy{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/FullFantasy.png");
+    background-position: center;
+}
+
+
+.imgMimoCut{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/MimoCut.png");
+    background-position: center;
+}
+
+.imgOmbre{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/Ombre.png");
+    background-position: center;
+}
+
+
+.imgRoyal{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/Royal.png");
+    background-position: center;
+}
+
+.imgRuivoDeluxe{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/RuivoDeluxe.png");
+    background-position: center;
+}
+
+
+.imgRuivoMimo{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/RuivoMimo.png");
+    background-position: center;
+}
+
+.imgSummer{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/Summer.png");
+    background-position: center;
+}
+
+
+.imgTonalizacao{
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    background-image: url("img/servicos/salao/Tonalização.png");
+    background-position: center;
+}
+
 /******* M A S S A G E M *******/
 
 .imgmdrenamod{
@@ -521,6 +609,16 @@
 .imgagriprot ,
 .imgafibra ,
 .imgagelmolde ,
+.imgBlond ,
+.imgFullBlond ,
+.imgFullFantasy ,
+.imgMimoCut ,
+.imgOmbre ,
+.imgRoyal ,
+.imgRuivoDeluxe ,
+.imgRuivoMimo ,
+.imgSummer ,
+.imgTonalizacao ,
 .imgagelprot ,
 .imgaporcelana ,
 .imgmdrenamod ,
@@ -579,6 +677,16 @@
     .imgagelmolde ,
     .imgestrias,
     .imgpellingintimo,
+    .imgBlond ,
+    .imgFullBlond ,
+    .imgFullFantasy ,
+    .imgMimoCut ,
+    .imgOmbre ,
+    .imgRoyal ,
+    .imgRuivoDeluxe ,
+    .imgRuivoMimo ,
+    .imgSummer ,
+    .imgTonalizacao ,
     .imgagelprot ,
     .imgaporcelana ,
     .imgmdrenamod ,
