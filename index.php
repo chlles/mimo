@@ -492,7 +492,7 @@ if ($_POST) {
                     </li>
                     <li class="nav-item mt-md-3">
                         <h5 class="textPink font-weight-normal mb-md-1">Telefone</h5>
-                        <p>(11) 99478-1012</p>
+                        <p>(11) 99478-1012 (Somente Whatsapp)</p>
                         <p>(11) 3062-8295</p>
                     </li>
                     <li class="nav-item font-weight-light mt-md-3">
